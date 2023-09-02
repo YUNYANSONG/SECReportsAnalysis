@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<heldOrderRoutingPublicReport>
+    <version>1.2</version>
+    <bd>NATIONAL FINANCIAL SERVICES LLC</bd>
+    <year>2023</year>
+    <qtr>02</qtr>
+    <timestamp>2023-07-21T13:47:10Z</timestamp>
+    <rMonthly>
+        <year>2023</year>
+        <mon>04</mon>
+        <rSP500>
+            <ndoPct>10.00</ndoPct>
+            <ndoMarketPct>99.15</ndoMarketPct>
+            <ndoMarketableLimitPct>0.55</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.21</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.09</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>28.90</orderPct>
+                    <marketPct>34.92</marketPct>
+                    <marketableLimitPct>63.05</marketableLimitPct>
+                    <nonMarketableLimitPct>22.64</nonMarketableLimitPct>
+                    <otherPct>0.15</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>24.90</orderPct>
+                    <marketPct>30.28</marketPct>
+                    <marketableLimitPct>34.17</marketableLimitPct>
+                    <nonMarketableLimitPct>17.99</nonMarketableLimitPct>
+                    <otherPct>0.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>18.80</orderPct>
+                    <marketPct>23.18</marketPct>
+                    <marketableLimitPct>0.65</marketableLimitPct>
+                    <nonMarketableLimitPct>0.07</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>12.25</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>69.74</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders may be routed to NFS’s Alternative Trading System, CrossStream. NFS is not charged an explicit fee for orders executed in CrossStream but may receive a trading commission from the contra-side party against which the order executed.
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>7.61</orderPct>
+                    <marketPct>9.39</marketPct>
+                    <marketableLimitPct>0.15</marketableLimitPct>
+                    <nonMarketableLimitPct>0.03</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.95</orderPct>
+                    <marketPct>1.17</marketPct>
+                    <marketableLimitPct>0.04</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>JP Morgan Securities LLC</name>
+                    <mic>JPMS</mic>
+                    <orderPct>0.80</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>4.56</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-25</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>INTELLIGENT CROSS LLC</name>
+                    <mic>INCR</mic>
+                    <orderPct>0.79</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>4.47</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-22</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-8.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Goldman, Sachs &amp; Co.</name>
+                    <mic>GSCO</mic>
+                    <orderPct>0.72</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>4.10</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-19</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>LEVEL ATS</name>
+                    <mic>EBXL</mic>
+                    <orderPct>0.55</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>3.12</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-2</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-5.0571</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems.
+Orders may be routed through EBX LLC in which NFS or its affiliates have an interest. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>4.21</ndoPct>
+            <ndoMarketPct>96.03</ndoMarketPct>
+            <ndoMarketableLimitPct>3.38</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.46</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.13</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>20.32</orderPct>
+                    <marketPct>35.04</marketPct>
+                    <marketableLimitPct>13.83</marketableLimitPct>
+                    <nonMarketableLimitPct>4.94</nonMarketableLimitPct>
+                    <otherPct>0.03</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>17.44</orderPct>
+                    <marketPct>30.16</marketPct>
+                    <marketableLimitPct>9.50</marketableLimitPct>
+                    <nonMarketableLimitPct>4.38</nonMarketableLimitPct>
+                    <otherPct>0.02</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>16.51</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>43.24</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders may be routed to NFS’s Alternative Trading System, CrossStream. NFS is not charged an explicit fee for orders executed in CrossStream but may receive a trading commission from the contra-side party against which the order executed.
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>13.26</orderPct>
+                    <marketPct>23.38</marketPct>
+                    <marketableLimitPct>0.48</marketableLimitPct>
+                    <nonMarketableLimitPct>0.06</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>5.20</orderPct>
+                    <marketPct>9.16</marketPct>
+                    <marketableLimitPct>0.16</marketableLimitPct>
+                    <nonMarketableLimitPct>0.01</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Goldman, Sachs &amp; Co.</name>
+                    <mic>GSCO</mic>
+                    <orderPct>3.16</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>8.28</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-270</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>JP Morgan Securities LLC</name>
+                    <mic>JPMS</mic>
+                    <orderPct>2.95</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>7.74</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1090</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>INTELLIGENT CROSS LLC</name>
+                    <mic>INCR</mic>
+                    <orderPct>2.77</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>7.25</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-113</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-7.4503</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>LEVEL ATS</name>
+                    <mic>EBXL</mic>
+                    <orderPct>2.44</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.40</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-48</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-6.8672</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems.
+Orders may be routed through EBX LLC in which NFS or its affiliates have an interest. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Barclays Capital, Inc.</name>
+                    <mic>LEHM</mic>
+                    <orderPct>2.39</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.27</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-116</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>UBS Securities LLC - ATS</name>
+                    <mic>UBSA</mic>
+                    <orderPct>2.20</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>5.76</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-173</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Investors Exchange</name>
+                    <mic>IEXG</mic>
+                    <orderPct>2.17</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>28.25</marketableLimitPct>
+                    <nonMarketableLimitPct>25.58</nonMarketableLimitPct>
+                    <otherPct>2.09</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-1017</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-8.6052</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>-34</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>-0.3952</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-40</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific equities exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. 
+Visit exchange websites directly for detailed price lists: https://exchange.iex.io/resources/trading/fee-schedule/
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>42.95</ndoPct>
+            <ndoMarketPct>0.00</ndoMarketPct>
+            <ndoMarketableLimitPct>0.01</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.02</ndoNonmarketableLimitPct>
+            <ndoOtherPct>99.97</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>NYSE Arca Options</name>
+                    <mic>ARCA</mic>
+                    <orderPct>39.41</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>39.41</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>3615</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>18.2500</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges. Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/arca-options/NYSE_Arca_Options_Fee_Schedule.pdf</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe Options Exchange</name>
+                    <mic>CBOE</mic>
+                    <orderPct>24.54</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>24.55</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1221</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-26.3200</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  
+NFS does not negotiate, set rates for, or solicit payment for order flow on options orders. However, NFS may generate rebates (e.g. Marketing Fees) associated with the routing of orders to CBOE options exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/options/membership/fee_schedule/</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Options Market</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>23.28</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>23.29</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/nasdaq-options-7</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX Options Exchange, Inc.</name>
+                    <mic>BATS</mic>
+                    <orderPct>12.30</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>12.30</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-232</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-15.3100</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/options/membership/fee_schedule/bzx</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+    <rMonthly>
+        <year>2023</year>
+        <mon>05</mon>
+        <rSP500>
+            <ndoPct>11.61</ndoPct>
+            <ndoMarketPct>85.99</ndoMarketPct>
+            <ndoMarketableLimitPct>0.53</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.86</ndoNonmarketableLimitPct>
+            <ndoOtherPct>12.62</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>28.47</orderPct>
+                    <marketPct>37.35</marketPct>
+                    <marketableLimitPct>54.10</marketableLimitPct>
+                    <nonMarketableLimitPct>15.53</nonMarketableLimitPct>
+                    <otherPct>0.15</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>23.32</orderPct>
+                    <marketPct>30.74</marketPct>
+                    <marketableLimitPct>29.80</marketableLimitPct>
+                    <nonMarketableLimitPct>12.21</nonMarketableLimitPct>
+                    <otherPct>0.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>13.97</orderPct>
+                    <marketPct>18.65</marketPct>
+                    <marketableLimitPct>0.53</marketableLimitPct>
+                    <nonMarketableLimitPct>0.11</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>12.75</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>53.97</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders may be routed to NFS’s Alternative Trading System, CrossStream. NFS is not charged an explicit fee for orders executed in CrossStream but may receive a trading commission from the contra-side party against which the order executed.
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>8.24</orderPct>
+                    <marketPct>11.00</marketPct>
+                    <marketableLimitPct>0.28</marketableLimitPct>
+                    <nonMarketableLimitPct>0.09</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>JP Morgan Securities LLC</name>
+                    <mic>JPMS</mic>
+                    <orderPct>1.56</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.60</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-14</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>INTELLIGENT CROSS LLC</name>
+                    <mic>INCR</mic>
+                    <orderPct>1.47</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.21</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-6</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-8.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Goldman, Sachs &amp; Co.</name>
+                    <mic>GSCO</mic>
+                    <orderPct>1.44</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.08</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-14</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>1.16</orderPct>
+                    <marketPct>1.55</marketPct>
+                    <marketableLimitPct>0.03</marketableLimitPct>
+                    <nonMarketableLimitPct>0.02</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Investors Exchange</name>
+                    <mic>IEXG</mic>
+                    <orderPct>1.09</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.07</marketableLimitPct>
+                    <nonMarketableLimitPct>17.27</nonMarketableLimitPct>
+                    <otherPct>3.96</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific equities exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. 
+Visit exchange websites directly for detailed price lists: https://exchange.iex.io/resources/trading/fee-schedule/
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>6.09</ndoPct>
+            <ndoMarketPct>70.90</ndoMarketPct>
+            <ndoMarketableLimitPct>2.44</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>1.64</ndoNonmarketableLimitPct>
+            <ndoOtherPct>25.01</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>19.76</orderPct>
+                    <marketPct>37.38</marketPct>
+                    <marketableLimitPct>32.57</marketableLimitPct>
+                    <nonMarketableLimitPct>6.81</nonMarketableLimitPct>
+                    <otherPct>0.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>16.32</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>35.99</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders may be routed to NFS’s Alternative Trading System, CrossStream. NFS is not charged an explicit fee for orders executed in CrossStream but may receive a trading commission from the contra-side party against which the order executed.
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>16.07</orderPct>
+                    <marketPct>30.50</marketPct>
+                    <marketableLimitPct>21.29</marketableLimitPct>
+                    <nonMarketableLimitPct>5.99</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>9.68</orderPct>
+                    <marketPct>18.73</marketPct>
+                    <marketableLimitPct>0.95</marketableLimitPct>
+                    <nonMarketableLimitPct>0.02</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>5.74</orderPct>
+                    <marketPct>11.11</marketPct>
+                    <marketableLimitPct>0.39</marketableLimitPct>
+                    <nonMarketableLimitPct>0.02</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>INTELLIGENT CROSS LLC</name>
+                    <mic>INCR</mic>
+                    <orderPct>3.82</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>8.43</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-33</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-2.3422</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Goldman, Sachs &amp; Co.</name>
+                    <mic>GSCO</mic>
+                    <orderPct>3.64</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>8.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-2</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-10.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-122</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>JP Morgan Securities LLC</name>
+                    <mic>JPMS</mic>
+                    <orderPct>3.62</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>7.98</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-16</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-12.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-428</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>LEVEL ATS</name>
+                    <mic>EBXL</mic>
+                    <orderPct>3.27</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>7.22</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-8</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-6.7760</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems.
+Orders may be routed through EBX LLC in which NFS or its affiliates have an interest. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Barclays Capital, Inc.</name>
+                    <mic>LEHM</mic>
+                    <orderPct>2.90</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.41</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-153</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>UBS Securities LLC - ATS</name>
+                    <mic>UBSA</mic>
+                    <orderPct>2.84</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.26</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-178</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>2.23</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>4.71</marketableLimitPct>
+                    <nonMarketableLimitPct>0.16</nonMarketableLimitPct>
+                    <otherPct>4.82</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-429</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-11.0309</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-401</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-20.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+NFS may route orders for additional routing to Credit Suisse Securities (USA) LLC, Morgan Stanley &amp;amp; Co. LLC, and VIRTU Americas LLC. 
+Orders routed further by Morgan Stanley &amp;amp; Co. LLC are sent to exchanges which incur fees and rebates based on the exchange rules, subject to SEC approval, and are non-negotiable.
+Execution fees and rebates incurred by Morgan Stanley &amp;amp; Co. LLC for routing these orders are passed back to NFS plus an additional router fee. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Investors Exchange</name>
+                    <mic>IEXG</mic>
+                    <orderPct>2.09</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>13.60</marketableLimitPct>
+                    <nonMarketableLimitPct>19.08</nonMarketableLimitPct>
+                    <otherPct>3.46</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-1</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-10.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-519</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-4.0240</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>-14</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>-0.4145</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-5</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-9.7097</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific equities exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. 
+Visit exchange websites directly for detailed price lists: https://exchange.iex.io/resources/trading/fee-schedule/
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>40.20</ndoPct>
+            <ndoMarketPct>0.01</ndoMarketPct>
+            <ndoMarketableLimitPct>0.00</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.02</ndoNonmarketableLimitPct>
+            <ndoOtherPct>99.96</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>NYSE Arca Options</name>
+                    <mic>ARCA</mic>
+                    <orderPct>42.22</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>42.23</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-12671</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-47.5100</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges. Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/arca-options/NYSE_Arca_Options_Fee_Schedule.pdf</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe Options Exchange</name>
+                    <mic>CBOE</mic>
+                    <orderPct>23.53</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>23.53</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1702</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-25.5600</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  
+NFS does not negotiate, set rates for, or solicit payment for order flow on options orders. However, NFS may generate rebates (e.g. Marketing Fees) associated with the routing of orders to CBOE options exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/options/membership/fee_schedule/</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Options Market</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>20.74</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>20.74</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/nasdaq-options-7</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX Options Exchange, Inc.</name>
+                    <mic>BATS</mic>
+                    <orderPct>13.00</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>13.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-628</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-29.6200</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/options/membership/fee_schedule/bzx</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+    <rMonthly>
+        <year>2023</year>
+        <mon>06</mon>
+        <rSP500>
+            <ndoPct>10.61</ndoPct>
+            <ndoMarketPct>99.32</ndoMarketPct>
+            <ndoMarketableLimitPct>0.40</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.14</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.13</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>29.67</orderPct>
+                    <marketPct>40.23</marketPct>
+                    <marketableLimitPct>43.72</marketableLimitPct>
+                    <nonMarketableLimitPct>4.33</nonMarketableLimitPct>
+                    <otherPct>0.18</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>19.65</orderPct>
+                    <marketPct>26.65</marketPct>
+                    <marketableLimitPct>26.54</marketableLimitPct>
+                    <nonMarketableLimitPct>3.84</nonMarketableLimitPct>
+                    <otherPct>0.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>12.75</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>51.73</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders may be routed to NFS’s Alternative Trading System, CrossStream. NFS is not charged an explicit fee for orders executed in CrossStream but may receive a trading commission from the contra-side party against which the order executed.
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>12.44</orderPct>
+                    <marketPct>17.09</marketPct>
+                    <marketableLimitPct>0.18</marketableLimitPct>
+                    <nonMarketableLimitPct>0.06</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>10.10</orderPct>
+                    <marketPct>13.87</marketPct>
+                    <marketableLimitPct>0.34</marketableLimitPct>
+                    <nonMarketableLimitPct>0.04</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Investors Exchange</name>
+                    <mic>IEXG</mic>
+                    <orderPct>1.60</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>2.29</marketableLimitPct>
+                    <nonMarketableLimitPct>29.72</nonMarketableLimitPct>
+                    <otherPct>4.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-48</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-22.1110</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>-2</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>-0.2858</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-84</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-9.9405</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific equities exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. 
+Visit exchange websites directly for detailed price lists: https://exchange.iex.io/resources/trading/fee-schedule/
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>JP Morgan Securities LLC</name>
+                    <mic>JPMS</mic>
+                    <orderPct>1.52</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.17</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-133</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>INTELLIGENT CROSS LLC</name>
+                    <mic>INCR</mic>
+                    <orderPct>1.52</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>6.15</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-107</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-8.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Goldman, Sachs &amp; Co.</name>
+                    <mic>GSCO</mic>
+                    <orderPct>1.37</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>5.57</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-124</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>LEVEL ATS</name>
+                    <mic>EBXL</mic>
+                    <orderPct>1.35</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>5.46</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-10</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-4.2161</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems.
+Orders may be routed through EBX LLC in which NFS or its affiliates have an interest. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>4.23</ndoPct>
+            <ndoMarketPct>97.65</ndoMarketPct>
+            <ndoMarketableLimitPct>1.76</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.40</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.19</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>28.86</orderPct>
+                    <marketPct>40.31</marketPct>
+                    <marketableLimitPct>46.73</marketableLimitPct>
+                    <nonMarketableLimitPct>19.59</nonMarketableLimitPct>
+                    <otherPct>0.10</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>19.21</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>68.31</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders may be routed to NFS’s Alternative Trading System, CrossStream. NFS is not charged an explicit fee for orders executed in CrossStream but may receive a trading commission from the contra-side party against which the order executed.
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market."
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>19.12</orderPct>
+                    <marketPct>26.65</marketPct>
+                    <marketableLimitPct>31.85</marketableLimitPct>
+                    <nonMarketableLimitPct>16.94</nonMarketableLimitPct>
+                    <otherPct>0.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>12.01</orderPct>
+                    <marketPct>17.10</marketPct>
+                    <marketableLimitPct>0.82</marketableLimitPct>
+                    <nonMarketableLimitPct>0.15</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>9.69</orderPct>
+                    <marketPct>13.79</marketPct>
+                    <marketableLimitPct>0.60</marketableLimitPct>
+                    <nonMarketableLimitPct>0.06</nonMarketableLimitPct>
+                    <otherPct>0.02</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS does not accept payment for order flow, rebates, or other remuneration from this venue.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>JP Morgan Securities LLC</name>
+                    <mic>JPMS</mic>
+                    <orderPct>1.21</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>4.31</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-82</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Goldman, Sachs &amp; Co.</name>
+                    <mic>GSCO</mic>
+                    <orderPct>1.18</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>4.18</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-86</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>INTELLIGENT CROSS LLC</name>
+                    <mic>INCR</mic>
+                    <orderPct>1.17</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>4.17</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-31</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-5.8790</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”
+NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. </materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Barclays Capital, Inc.</name>
+                    <mic>LEHM</mic>
+                    <orderPct>1.08</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>3.84</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-66</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-10.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.”</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>1.06</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.80</marketableLimitPct>
+                    <nonMarketableLimitPct>0.10</nonMarketableLimitPct>
+                    <otherPct>3.75</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-778</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-27.1222</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-137</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-20.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees for orders executed in Alternative Trading Systems. These fees are agreed upon between NFS and the Alternative Trading Systems or directly set by the Alternative Trading Systems. 
+NFS may route orders for additional routing to Credit Suisse Securities (USA) LLC, Morgan Stanley &amp;amp; Co. LLC, and VIRTU Americas LLC. 
+Orders routed further by Morgan Stanley &amp;amp; Co. LLC are sent to exchanges which incur fees and rebates based on the exchange rules, subject to SEC approval, and are non-negotiable.
+Execution fees and rebates incurred by Morgan Stanley &amp;amp; Co. LLC for routing these orders are passed back to NFS plus an additional router fee. 
+Orders to each venue are classified according to the parameters of the child order routed to the venue, not the parent order. For example, a customer market order routed to an ATS as a mid-point peg order will be classified as “Other,” not as “Market.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>48.22</ndoPct>
+            <ndoMarketPct>0.02</ndoMarketPct>
+            <ndoMarketableLimitPct>0.00</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>0.02</ndoNonmarketableLimitPct>
+            <ndoOtherPct>99.96</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>NYSE Arca Options</name>
+                    <mic>ARCA</mic>
+                    <orderPct>38.72</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>38.72</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-8532</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-23.5800</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges. Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/arca-options/NYSE_Arca_Options_Fee_Schedule.pdf</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe Options Exchange</name>
+                    <mic>CBOE</mic>
+                    <orderPct>23.46</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>23.47</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1857</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-23.6300</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  
+NFS does not negotiate, set rates for, or solicit payment for order flow on options orders. However, NFS may generate rebates (e.g. Marketing Fees) associated with the routing of orders to CBOE options exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/options/membership/fee_schedule/</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Options Market</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>19.98</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>19.98</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/nasdaq-options-7</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX Options Exchange, Inc.</name>
+                    <mic>BATS</mic>
+                    <orderPct>16.71</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>16.71</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-184</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-6.2100</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>NFS may be charged fees or receive rebates for orders executed on specific options exchanges.  Fees and rebates are set by exchange rules, subject to SEC approval, are non-negotiable, and may include tiers based on volume thresholds. 
+Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/options/membership/fee_schedule/bzx</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+</heldOrderRoutingPublicReport>
