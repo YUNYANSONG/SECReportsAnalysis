@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<heldOrderRoutingPublicReport>
+    <version>1.2</version>
+    <bd>FIDELITY BROKERAGE SERVICES LLC</bd>
+    <year>2022</year>
+    <qtr>02</qtr>
+    <timestamp>2022-07-19T12:25:21Z</timestamp>
+    <rMonthly>
+        <year>2022</year>
+        <mon>04</mon>
+        <rSP500>
+            <ndoPct>96.59</ndoPct>
+            <ndoMarketPct>57.67</ndoMarketPct>
+            <ndoMarketableLimitPct>5.37</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>33.33</ndoNonmarketableLimitPct>
+            <ndoOtherPct>3.63</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>20.63</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>2.67</marketableLimitPct>
+                    <nonMarketableLimitPct>36.78</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-313</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-4.4901</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>8579</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>23.2677</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>19.93</orderPct>
+                    <marketPct>37.81</marketPct>
+                    <marketableLimitPct>38.73</marketableLimitPct>
+                    <nonMarketableLimitPct>10.84</nonMarketableLimitPct>
+                    <otherPct>11.57</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>17.46</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>4.82</marketableLimitPct>
+                    <nonMarketableLimitPct>30.97</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-18</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-13.7986</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-813</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-15.3606</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>113458</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.7687</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges. Non-Marketable Limit orders routed to Nasdaq are generally attested as retail, meet the exchange’s definition of “Rebate to Add Displayed Designated Retail Liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>11.03</orderPct>
+                    <marketPct>22.00</marketPct>
+                    <marketableLimitPct>24.02</marketableLimitPct>
+                    <nonMarketableLimitPct>5.29</nonMarketableLimitPct>
+                    <otherPct>6.29</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>9.35</orderPct>
+                    <marketPct>21.80</marketPct>
+                    <marketableLimitPct>15.83</marketableLimitPct>
+                    <nonMarketableLimitPct>4.09</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>8.34</orderPct>
+                    <marketPct>0.02</marketPct>
+                    <marketableLimitPct>0.02</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>76.75</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Marketable orders may be routed to FBS' affiliated broker-dealer NFS's Alternative Trading System, CrossStream, for potential execution at the mid-point or better of the National Best Bid and Offer (NBBO).
+FBS does not get charged an explicit fee or receive payment for order flow for orders executed in CrossStream​.
+NFS may receive a trading commission from the contra-side party against which the FBS order executed. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>6.86</orderPct>
+                    <marketPct>15.80</marketPct>
+                    <marketableLimitPct>11.45</marketableLimitPct>
+                    <nonMarketableLimitPct>2.96</nonMarketableLimitPct>
+                    <otherPct>0.81</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>3.59</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.19</marketableLimitPct>
+                    <nonMarketableLimitPct>6.42</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>303723</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.9309</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges. 
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to Cboe EDGX are generally attested as retail, meet the exchange’s definition of “Retail Order, adds liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/equities/membership/fee_schedule/edgx/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Members Exchange</name>
+                    <mic>MEMX</mic>
+                    <orderPct>1.19</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.03</marketableLimitPct>
+                    <nonMarketableLimitPct>2.13</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>87783</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>34.9470</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to MEMX are generally attested as retail, meet the exchange’s definition of “Added displayed volume, Retail order”, and qualify for the base rebate rate. 
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://info.memxtrading.com/fee-schedule/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.60</orderPct>
+                    <marketPct>1.35</marketPct>
+                    <marketableLimitPct>0.96</marketableLimitPct>
+                    <nonMarketableLimitPct>0.26</nonMarketableLimitPct>
+                    <otherPct>0.19</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>92.72</ndoPct>
+            <ndoMarketPct>54.33</ndoMarketPct>
+            <ndoMarketableLimitPct>7.78</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>33.70</ndoNonmarketableLimitPct>
+            <ndoOtherPct>4.20</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>18.91</orderPct>
+                    <marketPct>37.96</marketPct>
+                    <marketableLimitPct>37.27</marketableLimitPct>
+                    <nonMarketableLimitPct>10.53</nonMarketableLimitPct>
+                    <otherPct>7.20</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>13.23</orderPct>
+                    <marketPct>0.03</marketPct>
+                    <marketableLimitPct>0.03</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>74.42</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Marketable orders may be routed to FBS' affiliated broker-dealer NFS's Alternative Trading System, CrossStream, for potential execution at the mid-point or better of the National Best Bid and Offer (NBBO).
+FBS does not get charged an explicit fee or receive payment for order flow for orders executed in CrossStream​.
+NFS may receive a trading commission from the contra-side party against which the FBS order executed. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>11.53</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.46</marketableLimitPct>
+                    <nonMarketableLimitPct>23.10</nonMarketableLimitPct>
+                    <otherPct>0.30</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-107</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-9.1338</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-2728</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-9.4963</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>449113</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>25.6102</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-60</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-4.2778</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges. Non-Marketable Limit orders routed to Nasdaq are generally attested as retail, meet the exchange’s definition of “Rebate to Add Displayed Designated Retail Liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>10.94</orderPct>
+                    <marketPct>22.01</marketPct>
+                    <marketableLimitPct>25.40</marketableLimitPct>
+                    <nonMarketableLimitPct>5.46</nonMarketableLimitPct>
+                    <otherPct>4.86</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>9.65</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.07</marketableLimitPct>
+                    <nonMarketableLimitPct>19.41</nonMarketableLimitPct>
+                    <otherPct>0.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-554</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-4.0506</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>18778</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>16.5578</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-44</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-18.4625</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca</name>
+                    <mic>ARCA</mic>
+                    <orderPct>8.99</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.36</marketableLimitPct>
+                    <nonMarketableLimitPct>18.03</nonMarketableLimitPct>
+                    <otherPct>0.13</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-203</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-15.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-292</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-3.6142</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>10547</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>15.2018</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1351</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.6506</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/NYSE_Arca_Marketplace_Fees.pdf</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>8.72</orderPct>
+                    <marketPct>21.89</marketPct>
+                    <marketableLimitPct>17.31</marketableLimitPct>
+                    <nonMarketableLimitPct>3.52</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>6.30</orderPct>
+                    <marketPct>15.69</marketPct>
+                    <marketableLimitPct>12.34</marketableLimitPct>
+                    <nonMarketableLimitPct>2.51</nonMarketableLimitPct>
+                    <otherPct>0.34</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>5.10</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.28</marketableLimitPct>
+                    <nonMarketableLimitPct>10.30</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-4</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-30.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>1205295</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>27.0711</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges. 
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to Cboe EDGX are generally attested as retail, meet the exchange’s definition of “Retail Order, adds liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/equities/membership/fee_schedule/edgx/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Members Exchange</name>
+                    <mic>MEMX</mic>
+                    <orderPct>1.73</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.05</marketableLimitPct>
+                    <nonMarketableLimitPct>3.47</nonMarketableLimitPct>
+                    <otherPct>0.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-44</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-17.2769</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>346841</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.2887</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-133</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-22.5348</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to MEMX are generally attested as retail, meet the exchange’s definition of “Added displayed volume, Retail order”, and qualify for the base rebate rate. 
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://info.memxtrading.com/fee-schedule/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>99.08</ndoPct>
+            <ndoMarketPct>21.66</ndoMarketPct>
+            <ndoMarketableLimitPct>9.79</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>52.45</ndoNonmarketableLimitPct>
+            <ndoOtherPct>16.09</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>45.39</orderPct>
+                    <marketPct>50.90</marketPct>
+                    <marketableLimitPct>50.81</marketableLimitPct>
+                    <nonMarketableLimitPct>40.25</nonMarketableLimitPct>
+                    <otherPct>57.84</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>509918</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>10.1939</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>403429</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>11.5916</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>1793497</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>46.5112</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>230333</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>12.3583</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Wolverine Execution Services LLC</name>
+                    <mic>WEXX</mic>
+                    <orderPct>21.10</orderPct>
+                    <marketPct>1.96</marketPct>
+                    <marketableLimitPct>3.31</marketableLimitPct>
+                    <nonMarketableLimitPct>33.91</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>11656</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>6.1360</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>28634</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>14.6145</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>2100050</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>59.0120</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Susquehanna Capital Group</name>
+                    <mic>SUSQ</mic>
+                    <orderPct>15.18</orderPct>
+                    <marketPct>28.66</marketPct>
+                    <marketableLimitPct>27.44</marketableLimitPct>
+                    <nonMarketableLimitPct>5.19</nonMarketableLimitPct>
+                    <otherPct>34.62</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>235266</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>8.2436</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>233233</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>12.1559</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>102404</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>30.8411</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>723651</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>40.6864</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Dash Financial Technologies LLC</name>
+                    <mic>DASH</mic>
+                    <orderPct>14.50</orderPct>
+                    <marketPct>13.36</marketPct>
+                    <marketableLimitPct>13.37</marketableLimitPct>
+                    <nonMarketableLimitPct>16.58</nonMarketableLimitPct>
+                    <otherPct>7.38</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>158429</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>11.9954</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>113875</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>12.6232</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>527472</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>30.9566</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>112436</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>23.7580</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>3.79</orderPct>
+                    <marketPct>5.10</marketPct>
+                    <marketableLimitPct>5.01</marketableLimitPct>
+                    <nonMarketableLimitPct>4.07</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>90753</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>17.6751</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>63376</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>17.9957</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>75351</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>19.4488</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+    <rMonthly>
+        <year>2022</year>
+        <mon>05</mon>
+        <rSP500>
+            <ndoPct>96.27</ndoPct>
+            <ndoMarketPct>58.77</ndoMarketPct>
+            <ndoMarketableLimitPct>5.08</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>32.69</ndoNonmarketableLimitPct>
+            <ndoOtherPct>3.46</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>21.30</orderPct>
+                    <marketPct>38.25</marketPct>
+                    <marketableLimitPct>38.47</marketableLimitPct>
+                    <nonMarketableLimitPct>12.24</nonMarketableLimitPct>
+                    <otherPct>11.99</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>19.00</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>2.77</marketableLimitPct>
+                    <nonMarketableLimitPct>35.02</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-249</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-4.0699</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>5782</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>22.6332</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-9</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-15.4104</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>16.67</orderPct>
+                    <marketPct>0.01</marketPct>
+                    <marketableLimitPct>4.18</marketableLimitPct>
+                    <nonMarketableLimitPct>30.62</nonMarketableLimitPct>
+                    <otherPct>0.02</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-37</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-16.2251</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-680</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-15.2390</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>114196</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.9257</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-5.3473</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges. Non-Marketable Limit orders routed to Nasdaq are generally attested as retail, meet the exchange’s definition of “Rebate to Add Displayed Designated Retail Liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>11.67</orderPct>
+                    <marketPct>22.59</marketPct>
+                    <marketableLimitPct>24.30</marketableLimitPct>
+                    <nonMarketableLimitPct>5.80</nonMarketableLimitPct>
+                    <otherPct>5.39</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>8.84</orderPct>
+                    <marketPct>19.40</marketPct>
+                    <marketableLimitPct>14.38</marketableLimitPct>
+                    <nonMarketableLimitPct>3.98</nonMarketableLimitPct>
+                    <otherPct>0.69</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>8.49</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>76.59</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Marketable orders may be routed to FBS' affiliated broker-dealer NFS's Alternative Trading System, CrossStream, for potential execution at the mid-point or better of the National Best Bid and Offer (NBBO).
+FBS does not get charged an explicit fee or receive payment for order flow for orders executed in CrossStream​.
+NFS may receive a trading commission from the contra-side party against which the FBS order executed. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>8.20</orderPct>
+                    <marketPct>18.09</marketPct>
+                    <marketableLimitPct>13.52</marketableLimitPct>
+                    <nonMarketableLimitPct>3.75</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>3.29</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.13</marketableLimitPct>
+                    <nonMarketableLimitPct>6.09</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>300627</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.9187</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>2</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>20.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges. 
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to Cboe EDGX are generally attested as retail, meet the exchange’s definition of “Retail Order, adds liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/equities/membership/fee_schedule/edgx/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Members Exchange</name>
+                    <mic>MEMX</mic>
+                    <orderPct>1.09</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.03</marketableLimitPct>
+                    <nonMarketableLimitPct>2.02</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>86372</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>34.9464</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to MEMX are generally attested as retail, meet the exchange’s definition of “Added displayed volume, Retail order”, and qualify for the base rebate rate. 
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://info.memxtrading.com/fee-schedule/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.51</orderPct>
+                    <marketPct>1.07</marketPct>
+                    <marketableLimitPct>0.80</marketableLimitPct>
+                    <nonMarketableLimitPct>0.23</nonMarketableLimitPct>
+                    <otherPct>0.15</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>92.33</ndoPct>
+            <ndoMarketPct>55.04</ndoMarketPct>
+            <ndoMarketableLimitPct>7.78</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>33.10</ndoNonmarketableLimitPct>
+            <ndoOtherPct>4.08</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>21.07</orderPct>
+                    <marketPct>38.36</marketPct>
+                    <marketableLimitPct>37.31</marketableLimitPct>
+                    <nonMarketableLimitPct>13.09</nonMarketableLimitPct>
+                    <otherPct>7.81</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>13.98</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>77.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Marketable orders may be routed to FBS' affiliated broker-dealer NFS's Alternative Trading System, CrossStream, for potential execution at the mid-point or better of the National Best Bid and Offer (NBBO).
+FBS does not get charged an explicit fee or receive payment for order flow for orders executed in CrossStream​.
+NFS may receive a trading commission from the contra-side party against which the FBS order executed. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>12.04</orderPct>
+                    <marketPct>22.53</marketPct>
+                    <marketableLimitPct>26.58</marketableLimitPct>
+                    <nonMarketableLimitPct>6.49</nonMarketableLimitPct>
+                    <otherPct>4.59</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>9.88</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.39</marketableLimitPct>
+                    <nonMarketableLimitPct>21.15</nonMarketableLimitPct>
+                    <otherPct>0.09</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-58</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-9.4094</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-2726</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-11.4013</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>466492</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>26.3280</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-13</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-7.9395</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges. Non-Marketable Limit orders routed to Nasdaq are generally attested as retail, meet the exchange’s definition of “Rebate to Add Displayed Designated Retail Liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>8.52</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.07</marketableLimitPct>
+                    <nonMarketableLimitPct>18.28</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-1183</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-7.6069</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>18688</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>15.5287</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-6</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-26.3636</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>8.39</orderPct>
+                    <marketPct>19.35</marketPct>
+                    <marketableLimitPct>14.86</marketableLimitPct>
+                    <nonMarketableLimitPct>3.59</nonMarketableLimitPct>
+                    <otherPct>0.32</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca</name>
+                    <mic>ARCA</mic>
+                    <orderPct>7.84</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.54</marketableLimitPct>
+                    <nonMarketableLimitPct>16.74</nonMarketableLimitPct>
+                    <otherPct>0.08</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-47</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-14.9604</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-457</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-3.7919</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>11007</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>18.0249</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-973</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-11.9252</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/NYSE_Arca_Marketplace_Fees.pdf</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>7.82</orderPct>
+                    <marketPct>18.13</marketPct>
+                    <marketableLimitPct>13.98</marketableLimitPct>
+                    <nonMarketableLimitPct>3.40</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>4.86</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.20</marketableLimitPct>
+                    <nonMarketableLimitPct>10.48</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-3</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-0.4068</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>1280251</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>27.6710</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.6949</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges. 
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to Cboe EDGX are generally attested as retail, meet the exchange’s definition of “Retail Order, adds liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/equities/membership/fee_schedule/edgx/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Members Exchange</name>
+                    <mic>MEMX</mic>
+                    <orderPct>1.62</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.04</marketableLimitPct>
+                    <nonMarketableLimitPct>3.49</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-18</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-10.9230</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>358679</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.2969</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-12</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-20.5358</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to MEMX are generally attested as retail, meet the exchange’s definition of “Added displayed volume, Retail order”, and qualify for the base rebate rate. 
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://info.memxtrading.com/fee-schedule/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>99.07</ndoPct>
+            <ndoMarketPct>22.42</ndoMarketPct>
+            <ndoMarketableLimitPct>9.69</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>52.16</ndoNonmarketableLimitPct>
+            <ndoOtherPct>15.74</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>45.07</orderPct>
+                    <marketPct>51.17</marketPct>
+                    <marketableLimitPct>51.15</marketableLimitPct>
+                    <nonMarketableLimitPct>39.61</nonMarketableLimitPct>
+                    <otherPct>57.15</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>508279</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>9.7285</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>384164</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>10.8797</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>1933950</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>45.1365</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>181329</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>12.1239</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Wolverine Execution Services LLC</name>
+                    <mic>WEXX</mic>
+                    <orderPct>22.84</orderPct>
+                    <marketPct>1.87</marketPct>
+                    <marketableLimitPct>3.73</marketableLimitPct>
+                    <nonMarketableLimitPct>37.21</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>10990</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>5.7313</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>27907</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>13.6242</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>2169385</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>59.8364</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Dash Financial Technologies LLC</name>
+                    <mic>DASH</mic>
+                    <orderPct>15.23</orderPct>
+                    <marketPct>16.40</marketPct>
+                    <marketableLimitPct>16.19</marketableLimitPct>
+                    <nonMarketableLimitPct>16.65</nonMarketableLimitPct>
+                    <otherPct>6.62</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>204991</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>11.9999</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>142048</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>12.6370</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>546101</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>30.8562</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>106142</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>23.7290</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Susquehanna Capital Group</name>
+                    <mic>SUSQ</mic>
+                    <orderPct>13.69</orderPct>
+                    <marketPct>27.05</marketPct>
+                    <marketableLimitPct>25.37</marketableLimitPct>
+                    <nonMarketableLimitPct>2.86</nonMarketableLimitPct>
+                    <otherPct>36.07</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>215333</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>7.5582</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>213572</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>12.1622</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>145182</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>34.2901</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>795506</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>40.4923</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>3.13</orderPct>
+                    <marketPct>3.51</marketPct>
+                    <marketableLimitPct>3.52</marketableLimitPct>
+                    <nonMarketableLimitPct>3.66</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>62976</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>17.4435</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>47448</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>18.4012</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>76153</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>20.0945</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+    <rMonthly>
+        <year>2022</year>
+        <mon>06</mon>
+        <rSP500>
+            <ndoPct>94.21</ndoPct>
+            <ndoMarketPct>59.60</ndoMarketPct>
+            <ndoMarketableLimitPct>5.10</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>31.92</ndoNonmarketableLimitPct>
+            <ndoOtherPct>3.38</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>20.25</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>3.57</marketableLimitPct>
+                    <nonMarketableLimitPct>36.51</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-7</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-0.1872</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>4333</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>18.7134</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-11</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-24.7391</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>19.52</orderPct>
+                    <marketPct>35.12</marketPct>
+                    <marketableLimitPct>35.74</marketableLimitPct>
+                    <nonMarketableLimitPct>11.55</nonMarketableLimitPct>
+                    <otherPct>11.19</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>17.62</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>4.81</marketableLimitPct>
+                    <nonMarketableLimitPct>31.65</nonMarketableLimitPct>
+                    <otherPct>0.03</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-45</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-15.6932</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-751</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-15.1822</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>89282</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.4144</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-27</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-7.4116</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges. Non-Marketable Limit orders routed to Nasdaq are generally attested as retail, meet the exchange’s definition of “Rebate to Add Displayed Designated Retail Liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>10.61</orderPct>
+                    <marketPct>20.32</marketPct>
+                    <marketableLimitPct>22.38</marketableLimitPct>
+                    <nonMarketableLimitPct>5.59</nonMarketableLimitPct>
+                    <otherPct>5.24</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>10.31</orderPct>
+                    <marketPct>22.89</marketPct>
+                    <marketableLimitPct>16.83</marketableLimitPct>
+                    <nonMarketableLimitPct>4.83</nonMarketableLimitPct>
+                    <otherPct>0.67</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>8.81</orderPct>
+                    <marketPct>19.57</marketPct>
+                    <marketableLimitPct>14.52</marketableLimitPct>
+                    <nonMarketableLimitPct>4.22</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>8.50</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>77.80</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Marketable orders may be routed to FBS' affiliated broker-dealer NFS's Alternative Trading System, CrossStream, for potential execution at the mid-point or better of the National Best Bid and Offer (NBBO).
+FBS does not get charged an explicit fee or receive payment for order flow for orders executed in CrossStream​.
+NFS may receive a trading commission from the contra-side party against which the FBS order executed. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>2.12</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.03</marketableLimitPct>
+                    <nonMarketableLimitPct>3.84</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>245247</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>31.9256</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-6</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-25.8400</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges. 
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to Cboe EDGX are generally attested as retail, meet the exchange’s definition of “Retail Order, adds liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/equities/membership/fee_schedule/edgx/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Members Exchange</name>
+                    <mic>MEMX</mic>
+                    <orderPct>0.71</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.03</marketableLimitPct>
+                    <nonMarketableLimitPct>1.29</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-2</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-9.6270</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>74291</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>34.9137</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-13</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-25.6131</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to MEMX are generally attested as retail, meet the exchange’s definition of “Added displayed volume, Retail order”, and qualify for the base rebate rate. 
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://info.memxtrading.com/fee-schedule/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.57</orderPct>
+                    <marketPct>1.27</marketPct>
+                    <marketableLimitPct>0.82</marketableLimitPct>
+                    <nonMarketableLimitPct>0.25</nonMarketableLimitPct>
+                    <otherPct>0.13</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>90.51</ndoPct>
+            <ndoMarketPct>54.83</ndoMarketPct>
+            <ndoMarketableLimitPct>8.04</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>32.77</ndoNonmarketableLimitPct>
+            <ndoOtherPct>4.35</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>19.61</orderPct>
+                    <marketPct>35.15</marketPct>
+                    <marketableLimitPct>34.55</marketableLimitPct>
+                    <nonMarketableLimitPct>12.72</nonMarketableLimitPct>
+                    <otherPct>7.89</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>14.26</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>77.42</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Marketable orders may be routed to FBS' affiliated broker-dealer NFS's Alternative Trading System, CrossStream, for potential execution at the mid-point or better of the National Best Bid and Offer (NBBO).
+FBS does not get charged an explicit fee or receive payment for order flow for orders executed in CrossStream​.
+NFS may receive a trading commission from the contra-side party against which the FBS order executed. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>11.20</orderPct>
+                    <marketPct>20.41</marketPct>
+                    <marketableLimitPct>24.06</marketableLimitPct>
+                    <nonMarketableLimitPct>6.48</nonMarketableLimitPct>
+                    <otherPct>4.80</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>10.23</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>2.11</marketableLimitPct>
+                    <nonMarketableLimitPct>21.61</nonMarketableLimitPct>
+                    <otherPct>0.09</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-28</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-4.9713</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-6782</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-16.4050</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>445722</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>25.2205</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-249</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-20.4682</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges. Non-Marketable Limit orders routed to Nasdaq are generally attested as retail, meet the exchange’s definition of “Rebate to Add Displayed Designated Retail Liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>9.84</orderPct>
+                    <marketPct>22.85</marketPct>
+                    <marketableLimitPct>17.20</marketableLimitPct>
+                    <nonMarketableLimitPct>4.48</nonMarketableLimitPct>
+                    <otherPct>0.35</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>8.71</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.28</marketableLimitPct>
+                    <nonMarketableLimitPct>18.47</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-1763</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-13.6891</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>15472</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>13.0862</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-2</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-13.4932</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>8.40</orderPct>
+                    <marketPct>19.53</marketPct>
+                    <marketableLimitPct>14.85</marketableLimitPct>
+                    <nonMarketableLimitPct>3.91</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not receive payment for order flow ​or have a profit-sharing arrangement related to any order flow routed to wholesale market-makers, including marketable equity orders (i.e. market and marketable limit orders), non-marketable limit orders, all-or-none (AON) orders, stop orders, and other special order types. 
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca</name>
+                    <mic>ARCA</mic>
+                    <orderPct>8.16</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.80</marketableLimitPct>
+                    <nonMarketableLimitPct>17.25</nonMarketableLimitPct>
+                    <otherPct>0.02</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-53</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-14.6502</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-2627</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-20.4442</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>2192</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>1.9705</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1135</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-12.0613</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: participating in the exchange’s opening or closing auction; displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange.
+Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/NYSE_Arca_Marketplace_Fees.pdf</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>4.07</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.20</marketableLimitPct>
+                    <nonMarketableLimitPct>8.67</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>-6</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>-30.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-2956</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-22.1567</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>1167383</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>26.7622</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges. 
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to Cboe EDGX are generally attested as retail, meet the exchange’s definition of “Retail Order, adds liquidity”, and qualify for the base rebate rate.
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://www.cboe.com/us/equities/membership/fee_schedule/edgx/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Members Exchange</name>
+                    <mic>MEMX</mic>
+                    <orderPct>1.35</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.10</marketableLimitPct>
+                    <nonMarketableLimitPct>2.87</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>-177</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>-26.5979</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>346585</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>30.6922</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>-1</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>-2.2477</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, may incur fees or receive rebates for orders executed on specific equities exchanges.
+FBS orders generally meet the exchange’s definition of retail, and as such FBS, through its affiliated broker-dealer NFS, attests that its retail order flow is eligible for any exchange economics associated with that designation.
+Rebates are generally for limit orders required to be displayed on exchange per the SEC Limit Order Display Rule but may also include marketable orders executed on certain exchanges.
+Non-Marketable Limit orders routed to MEMX are generally attested as retail, meet the exchange’s definition of “Added displayed volume, Retail order”, and qualify for the base rebate rate. 
+Economics associated with Market orders, Marketable Limit orders and Other orders may represent a variety of different interaction types on the exchange, including but not limited to: displaying limit orders on the exchange; and removing liquidity on the exchange.
+The per-share economics described on this report represent a mix of interactions on the exchange. Fees and rebates are set by exchange rules, subject to SEC approval, and are non-negotiable. Visit exchange websites directly for detailed price lists: https://info.memxtrading.com/fee-schedule/
+Orders to each venue are categorized as “market”, “marketable limit”, “non-marketable limit” or “other” based on market conditions and the parameters of the order that NFS routes to that venue. 
+Orders categorized as “Other” may include special order types (e.g. stop orders, All or None, etc.) or orders that NFS routes as mid-point.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>99.03</ndoPct>
+            <ndoMarketPct>21.55</ndoMarketPct>
+            <ndoMarketableLimitPct>10.33</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>52.47</ndoNonmarketableLimitPct>
+            <ndoOtherPct>15.64</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>43.49</orderPct>
+                    <marketPct>47.06</marketPct>
+                    <marketableLimitPct>47.23</marketableLimitPct>
+                    <nonMarketableLimitPct>39.26</nonMarketableLimitPct>
+                    <otherPct>55.62</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>420292</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>9.1880</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>318598</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>9.8775</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>1726070</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>43.2288</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>157473</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>12.2896</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Wolverine Execution Services LLC</name>
+                    <mic>WEXX</mic>
+                    <orderPct>23.36</orderPct>
+                    <marketPct>1.56</marketPct>
+                    <marketableLimitPct>3.19</marketableLimitPct>
+                    <nonMarketableLimitPct>37.81</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>9029</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>5.8282</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>37048</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>19.1386</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>2018167</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>59.7079</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Dash Financial Technologies LLC</name>
+                    <mic>DASH</mic>
+                    <orderPct>17.10</orderPct>
+                    <marketPct>22.98</marketPct>
+                    <marketableLimitPct>22.51</marketableLimitPct>
+                    <nonMarketableLimitPct>16.84</nonMarketableLimitPct>
+                    <otherPct>6.60</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>277589</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>12.0037</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>200037</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>12.5671</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>519747</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>30.4693</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>101043</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>23.4388</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Susquehanna Capital Group</name>
+                    <mic>SUSQ</mic>
+                    <orderPct>13.07</orderPct>
+                    <marketPct>25.59</marketPct>
+                    <marketableLimitPct>24.14</marketableLimitPct>
+                    <nonMarketableLimitPct>2.44</nonMarketableLimitPct>
+                    <otherPct>37.59</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>210624</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>8.1669</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>207333</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>12.1903</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>98308</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>27.1606</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>792573</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>40.5770</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>2.94</orderPct>
+                    <marketPct>2.80</marketPct>
+                    <marketableLimitPct>2.82</marketableLimitPct>
+                    <nonMarketableLimitPct>3.64</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>48413</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>17.4199</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>36986</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>18.5946</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>70981</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>19.9982</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>FBS, through its affiliated broker-dealer NFS, does not negotiate, set rates for, or solicit payment​ for order flow on option orders. FBS does, however, receive compensation from options exchanges and/or brokers associated with the routing of options order flow. ​
+Options markets are structurally different from equities markets. Options orders require the use of specialized options brokers to deliver price improvement, all options trades must occur on ​an exchange and are subject to exchange pricing schedules. Brokers may pass to FBS, through its affiliated broker-dealer NFS, a portion of the compensation they generate via exchange executions.</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+</heldOrderRoutingPublicReport>

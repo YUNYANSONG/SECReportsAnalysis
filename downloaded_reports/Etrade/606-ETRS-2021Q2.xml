@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>E*TRADE Securities</bd>
+  <year>2021</year>
+  <qtr>2</qtr>
+  <timestamp>2021-07-28T17:51:07Z</timestamp>
+  <rMonthly>
+    <year>2021</year>
+    <mon>04</mon>
+    <rSP500>
+      <ndoPct>99.34</ndoPct>
+      <ndoMarketPct>51.74</ndoMarketPct>
+      <ndoMarketableLimitPct>5.98</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>31.70</ndoNonmarketableLimitPct>
+      <ndoOtherPct>10.58</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.97</orderPct>
+          <marketPct>39.95</marketPct>
+          <marketableLimitPct>39.98</marketableLimitPct>
+          <nonMarketableLimitPct>27.14</nonMarketableLimitPct>
+          <otherPct>40.67</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>343535.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>70835.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.1206</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>141596.13</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.1474</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>66296.43</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>13.7821</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>24.23</orderPct>
+          <marketPct>32.11</marketPct>
+          <marketableLimitPct>28.98</marketableLimitPct>
+          <nonMarketableLimitPct>10.80</nonMarketableLimitPct>
+          <otherPct>23.24</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>282161.53</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>53727.80</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>18.6104</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>42682.99</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.5120</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>39814.64</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.5759</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Virtu Americas, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Virtu Americas, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>13.41</orderPct>
+          <marketPct>11.06</marketPct>
+          <marketableLimitPct>11.66</marketableLimitPct>
+          <nonMarketableLimitPct>17.86</nonMarketableLimitPct>
+          <otherPct>12.54</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>92678.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.4768</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>19943.59</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.3451</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>113458.48</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.4839</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>21587.43</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.6415</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to G1X Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and G1X Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>10.60</orderPct>
+          <marketPct>9.05</marketPct>
+          <marketableLimitPct>10.65</marketableLimitPct>
+          <nonMarketableLimitPct>12.22</nonMarketableLimitPct>
+          <otherPct>13.25</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>61697.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>30259.43</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.4467</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>48666.95</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0812</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>19328.08</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>22.6744</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to UBS Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and UBS Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>8.40</orderPct>
+          <marketPct>6.89</marketPct>
+          <marketableLimitPct>7.48</marketableLimitPct>
+          <nonMarketableLimitPct>11.49</nonMarketableLimitPct>
+          <otherPct>7.08</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>58565.10</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.4350</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>12629.98</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>18.3613</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>42639.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.1767</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11638.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.0044</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Two Sigma Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Two Sigma Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>5.18</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.31</marketableLimitPct>
+          <nonMarketableLimitPct>15.46</nonMarketableLimitPct>
+          <otherPct>2.49</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-48.31</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-2.4518</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>75087.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.4684</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Cboe EDGX Exchange, Inc. as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Cboe EDGX Exchange, Inc. as outlined in the above disclosures.
+
+E*TRADE and Cboe EDGX Exchange, Inc. do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+ 
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+1. Current rate schedules can be accessed through Cboe EDGX Exchange, Inc.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: https://markets.cboe.com/us/equities/membership/fee_schedule/edgx/
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Cboe EDGX Exchange Inc. and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>1.66</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.08</marketableLimitPct>
+          <nonMarketableLimitPct>5.03</nonMarketableLimitPct>
+          <otherPct>0.53</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-851.79</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.4059</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>24468.97</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.1929</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-355.09</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-25.4919</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Nasdaq Execution Services, LLC as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Nasdaq Execution Services, LLC as outlined in the above disclosures.
+
+E*TRADE and Nasdaq Execution Services, LLC do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+ 
+1. Current rate schedules can be accessed through The Nasdaq Stock Market LLC.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: http://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Nasdaq Execution Services, LLC and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>0.55</orderPct>
+          <marketPct>0.93</marketPct>
+          <marketableLimitPct>0.87</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.19</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>9818.84</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0122</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2527.89</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>13.49</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>701.71</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.0077</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Jane Street Capital. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Jane Street Capital do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.12</ndoPct>
+      <ndoMarketPct>46.64</ndoMarketPct>
+      <ndoMarketableLimitPct>9.62</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>34.76</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.98</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.56</orderPct>
+          <marketPct>39.78</marketPct>
+          <marketableLimitPct>40.11</marketableLimitPct>
+          <nonMarketableLimitPct>27.33</nonMarketableLimitPct>
+          <otherPct>40.65</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1621291.27</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.8601</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>898096.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>13.6726</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>717968.86</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.0698</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>343969.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.4736</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>23.73</orderPct>
+          <marketPct>32.11</marketPct>
+          <marketableLimitPct>30.07</marketableLimitPct>
+          <nonMarketableLimitPct>11.15</nonMarketableLimitPct>
+          <otherPct>22.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1403350.01</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.6395</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>642369.20</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>13.0107</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>215084.31</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>19.7288</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>133114.85</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.6347</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Virtu Americas, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Virtu Americas, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>13.16</orderPct>
+          <marketPct>11.10</marketPct>
+          <marketableLimitPct>10.88</marketableLimitPct>
+          <nonMarketableLimitPct>16.61</nonMarketableLimitPct>
+          <otherPct>12.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>454196.63</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.4888</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>213555.05</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>14.1978</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>560592.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.4186</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>120378.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.0988</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to G1X Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and G1X Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>10.89</orderPct>
+          <marketPct>9.12</marketPct>
+          <marketableLimitPct>10.25</marketableLimitPct>
+          <nonMarketableLimitPct>12.67</nonMarketableLimitPct>
+          <otherPct>13.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>293637.92</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.9343</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>231603.76</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.2850</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>266263.91</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.4397</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>104033.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.6855</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to UBS Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and UBS Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>8.60</orderPct>
+          <marketPct>6.93</marketPct>
+          <marketableLimitPct>7.49</marketableLimitPct>
+          <nonMarketableLimitPct>11.50</nonMarketableLimitPct>
+          <otherPct>7.16</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>282419.40</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.3990</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>146616.24</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>13.8825</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>224588.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.7489</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>60649.98</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.5009</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Two Sigma Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Two Sigma Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>5.62</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.16</marketableLimitPct>
+          <nonMarketableLimitPct>15.44</nonMarketableLimitPct>
+          <otherPct>2.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>398.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>3.4267</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>362247.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.2963</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Cboe EDGX Exchange, Inc. as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Cboe EDGX Exchange, Inc. as outlined in the above disclosures.
+
+E*TRADE and Cboe EDGX Exchange, Inc. do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+ 
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+1. Current rate schedules can be accessed through Cboe EDGX Exchange, Inc.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: https://markets.cboe.com/us/equities/membership/fee_schedule/edgx/
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Cboe EDGX Exchange Inc. and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>1.91</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.14</marketableLimitPct>
+          <nonMarketableLimitPct>5.30</nonMarketableLimitPct>
+          <otherPct>0.60</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-12760.89</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-27.9581</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>118520.70</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.3841</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-1137.01</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-23.2636</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Nasdaq Execution Services, LLC as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Nasdaq Execution Services, LLC as outlined in the above disclosures.
+
+E*TRADE and Nasdaq Execution Services, LLC do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+ 
+1. Current rate schedules can be accessed through The Nasdaq Stock Market LLC.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: http://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Nasdaq Execution Services, LLC and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>0.55</orderPct>
+          <marketPct>0.97</marketPct>
+          <marketableLimitPct>0.90</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.11</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>44757.49</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.1554</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>21515.70</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>14.4194</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>149.27</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.3921</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2174.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.0028</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Jane Street Capital. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Jane Street Capital do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.93</ndoPct>
+      <ndoMarketPct>16.14</ndoMarketPct>
+      <ndoMarketableLimitPct>7.32</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>41.18</ndoNonmarketableLimitPct>
+      <ndoOtherPct>35.35</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>37.35</orderPct>
+          <marketPct>39.84</marketPct>
+          <marketableLimitPct>39.79</marketableLimitPct>
+          <nonMarketableLimitPct>39.82</nonMarketableLimitPct>
+          <otherPct>32.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2321757.40</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>45.1135</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2212448.79</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>47.0702</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2206938.46</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.0487</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1282971.46</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>38.8467</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>28.91</orderPct>
+          <marketPct>28.94</marketPct>
+          <marketableLimitPct>28.88</marketableLimitPct>
+          <nonMarketableLimitPct>28.78</nonMarketableLimitPct>
+          <otherPct>29.05</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2299440.31</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>46.4119</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>857249.88</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>45.2149</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1881783.64</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.3955</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1188505.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>38.7210</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Global Execution Brokers LP. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Global Execution Brokers LP: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>DASH/IMC</name>
+          <orderPct>20.24</orderPct>
+          <marketPct>19.06</marketPct>
+          <marketableLimitPct>19.13</marketableLimitPct>
+          <nonMarketableLimitPct>19.10</nonMarketableLimitPct>
+          <otherPct>22.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1221963.55</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>46.5027</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>916936.83</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>47.0315</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1028239.04</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.5377</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1107649.74</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>38.1227</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Dash Financial Technologies, LLC (“Dash”).  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures. In connection with Dash’s handling of E*TRADE retail equity option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC, designed to facilitate liquidity provision and price improvement opportunities.  Pursuant to these arrangements, Dash routes E*TRADE retail equity option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs which are described in the fee schedules of the options exchanges.   It is noted that these liquidity providers provide Dash with remuneration in connection with E*TRADE retail equity options orders, including reciprocal order flow consideration or payment per contract in return for E*TRADE retail equity options orders that Dash routes or directs.
+
+E*TRADE and Dash Financial Technologies, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>13.45</orderPct>
+          <marketPct>12.16</marketPct>
+          <marketableLimitPct>12.18</marketableLimitPct>
+          <nonMarketableLimitPct>12.24</nonMarketableLimitPct>
+          <otherPct>15.72</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>750205.78</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>47.7560</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>600992.33</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>47.9554</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>777451.01</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>47.6634</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>952699.07</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>48.1192</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Wolverine Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Wolverine Execution Services, LLC: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>0.05</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.02</marketableLimitPct>
+          <nonMarketableLimitPct>0.06</nonMarketableLimitPct>
+          <otherPct>0.07</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-555.25</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-2.9495</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Morgan Stanley &amp; Co., LLC:. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Morgan Stanley &amp; Co., LLC: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>05</mon>
+    <rSP500>
+      <ndoPct>99.51</ndoPct>
+      <ndoMarketPct>52.77</ndoMarketPct>
+      <ndoMarketableLimitPct>5.78</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>31.25</ndoNonmarketableLimitPct>
+      <ndoOtherPct>10.20</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.92</orderPct>
+          <marketPct>39.77</marketPct>
+          <marketableLimitPct>39.91</marketableLimitPct>
+          <nonMarketableLimitPct>27.03</nonMarketableLimitPct>
+          <otherPct>40.97</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>350658.83</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>70810.05</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>18.7750</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>132640.64</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.1941</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>66891.73</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.4940</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>24.71</orderPct>
+          <marketPct>32.42</marketPct>
+          <marketableLimitPct>28.99</marketableLimitPct>
+          <nonMarketableLimitPct>11.21</nonMarketableLimitPct>
+          <otherPct>23.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>290427.67</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>56514.80</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>18.1648</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>42952.85</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.5560</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>44422.77</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.2016</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Virtu Americas, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Virtu Americas, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>13.02</orderPct>
+          <marketPct>10.51</marketPct>
+          <marketableLimitPct>11.19</marketableLimitPct>
+          <nonMarketableLimitPct>17.89</nonMarketableLimitPct>
+          <otherPct>12.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>86231.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.4473</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>18230.70</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.2217</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>109386.66</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.7999</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>22848.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>22.2476</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to G1X Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and G1X Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>10.59</orderPct>
+          <marketPct>9.07</marketPct>
+          <marketableLimitPct>10.79</marketableLimitPct>
+          <nonMarketableLimitPct>12.30</nonMarketableLimitPct>
+          <otherPct>13.07</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>58289.86</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.9999</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>27781.55</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.3902</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>42837.22</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.2587</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>19081.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>22.7580</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to UBS Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and UBS Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>8.86</orderPct>
+          <marketPct>6.92</marketPct>
+          <marketableLimitPct>7.56</marketableLimitPct>
+          <nonMarketableLimitPct>12.90</nonMarketableLimitPct>
+          <otherPct>7.24</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>59694.50</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.3670</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>12620.18</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>17.9901</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>45459.36</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.7603</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>13176.15</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.3040</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Two Sigma Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Two Sigma Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>4.51</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.28</marketableLimitPct>
+          <nonMarketableLimitPct>13.69</nonMarketableLimitPct>
+          <otherPct>2.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-131.93</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-7.1458</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>61148.76</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.5785</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2367.44</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.4177</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Cboe EDGX Exchange, Inc. as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Cboe EDGX Exchange, Inc. as outlined in the above disclosures.
+
+E*TRADE and Cboe EDGX Exchange, Inc. do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+ 
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+1. Current rate schedules can be accessed through Cboe EDGX Exchange, Inc.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: https://markets.cboe.com/us/equities/membership/fee_schedule/edgx/
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Cboe EDGX Exchange Inc. and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>1.60</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.08</marketableLimitPct>
+          <nonMarketableLimitPct>4.97</nonMarketableLimitPct>
+          <otherPct>0.46</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-840.19</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.2281</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>22189.42</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.2923</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-272.99</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-25.5100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Nasdaq Execution Services, LLC as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Nasdaq Execution Services, LLC as outlined in the above disclosures.
+
+E*TRADE and Nasdaq Execution Services, LLC do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+ 
+1. Current rate schedules can be accessed through The Nasdaq Stock Market LLC.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: http://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Nasdaq Execution Services, LLC and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>0.78</orderPct>
+          <marketPct>1.30</marketPct>
+          <marketableLimitPct>1.20</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>14376.82</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0103</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2821.77</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>58.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1185.70</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.0150</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Jane Street Capital. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Jane Street Capital do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.13</ndoPct>
+      <ndoMarketPct>47.68</ndoMarketPct>
+      <ndoMarketableLimitPct>9.79</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>33.26</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.27</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.36</orderPct>
+          <marketPct>39.44</marketPct>
+          <marketableLimitPct>40.35</marketableLimitPct>
+          <nonMarketableLimitPct>26.67</nonMarketableLimitPct>
+          <otherPct>40.27</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1589679.87</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.7799</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>933986.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>14.4685</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>657171.50</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.2677</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>324932.05</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.1827</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>24.33</orderPct>
+          <marketPct>32.43</marketPct>
+          <marketableLimitPct>29.99</marketableLimitPct>
+          <nonMarketableLimitPct>11.42</nonMarketableLimitPct>
+          <otherPct>23.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1427843.36</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.6821</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>674950.09</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>13.8477</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>225874.47</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.3541</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>135697.75</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.8878</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Virtu Americas, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Virtu Americas, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>13.04</orderPct>
+          <marketPct>10.83</marketPct>
+          <marketableLimitPct>10.70</marketableLimitPct>
+          <nonMarketableLimitPct>16.98</nonMarketableLimitPct>
+          <otherPct>12.69</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>454003.44</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.4884</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>213206.67</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>14.9029</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>510313.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.3944</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>111949.85</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>19.7045</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to G1X Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and G1X Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>10.76</orderPct>
+          <marketPct>9.01</marketPct>
+          <marketableLimitPct>9.99</marketableLimitPct>
+          <nonMarketableLimitPct>12.70</nonMarketableLimitPct>
+          <otherPct>13.66</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>277914.31</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.7396</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>222085.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.8859</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>239547.38</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.2155</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>88857.43</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.4713</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to UBS Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and UBS Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>8.98</orderPct>
+          <marketPct>6.90</marketPct>
+          <marketableLimitPct>7.41</marketableLimitPct>
+          <nonMarketableLimitPct>12.92</nonMarketableLimitPct>
+          <otherPct>7.25</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>279553.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.0697</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>160735.90</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>14.5967</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>233861.91</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.1373</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>57177.22</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.4324</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Two Sigma Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Two Sigma Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>4.90</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.14</marketableLimitPct>
+          <nonMarketableLimitPct>14.03</nonMarketableLimitPct>
+          <otherPct>2.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>270.72</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>2.9681</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>290274.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.2248</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>14838.55</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>25.5339</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Cboe EDGX Exchange, Inc. as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Cboe EDGX Exchange, Inc. as outlined in the above disclosures.
+
+E*TRADE and Cboe EDGX Exchange, Inc. do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+ 
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+1. Current rate schedules can be accessed through Cboe EDGX Exchange, Inc.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: https://markets.cboe.com/us/equities/membership/fee_schedule/edgx/
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Cboe EDGX Exchange Inc. and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>1.81</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.06</marketableLimitPct>
+          <nonMarketableLimitPct>5.28</nonMarketableLimitPct>
+          <otherPct>0.56</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-12417.14</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.1076</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>113026.19</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.2620</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-1400.31</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-23.4643</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Nasdaq Execution Services, LLC as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Nasdaq Execution Services, LLC as outlined in the above disclosures.
+
+E*TRADE and Nasdaq Execution Services, LLC do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+ 
+1. Current rate schedules can be accessed through The Nasdaq Stock Market LLC.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: http://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Nasdaq Execution Services, LLC and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>0.82</orderPct>
+          <marketPct>1.39</marketPct>
+          <marketableLimitPct>1.36</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.20</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>62636.99</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.5709</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>30759.77</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>13.9190</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>109.09</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.2339</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3499.65</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.0071</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Jane Street Capital. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Jane Street Capital do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.95</ndoPct>
+      <ndoMarketPct>16.00</ndoMarketPct>
+      <ndoMarketableLimitPct>7.38</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>40.69</ndoNonmarketableLimitPct>
+      <ndoOtherPct>35.93</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>37.11</orderPct>
+          <marketPct>39.48</marketPct>
+          <marketableLimitPct>39.42</marketableLimitPct>
+          <nonMarketableLimitPct>39.54</nonMarketableLimitPct>
+          <otherPct>32.83</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2080606.75</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>44.0768</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2096620.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>46.7848</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2063701.34</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>45.6581</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1201286.74</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>38.1728</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>28.44</orderPct>
+          <marketPct>28.19</marketPct>
+          <marketableLimitPct>28.13</marketableLimitPct>
+          <nonMarketableLimitPct>28.07</nonMarketableLimitPct>
+          <otherPct>29.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>678214.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>42.5999</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1001060.73</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>45.0117</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1744646.44</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.2925</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2170597.83</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>41.3565</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Global Execution Brokers LP. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Global Execution Brokers LP: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>DASH/IMC</name>
+          <orderPct>19.79</orderPct>
+          <marketPct>18.99</marketPct>
+          <marketableLimitPct>19.06</marketableLimitPct>
+          <nonMarketableLimitPct>19.00</nonMarketableLimitPct>
+          <otherPct>21.17</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1104447.34</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>46.0182</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>869194.76</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>46.9749</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>973067.48</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.0754</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1021367.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.7718</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Dash Financial Technologies, LLC (“Dash”).  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures. In connection with Dash’s handling of E*TRADE retail equity option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC, designed to facilitate liquidity provision and price improvement opportunities.  Pursuant to these arrangements, Dash routes E*TRADE retail equity option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs which are described in the fee schedules of the options exchanges.   It is noted that these liquidity providers provide Dash with remuneration in connection with E*TRADE retail equity options orders, including reciprocal order flow consideration or payment per contract in return for E*TRADE retail equity options orders that Dash routes or directs.
+
+E*TRADE and Dash Financial Technologies, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>14.62</orderPct>
+          <marketPct>13.34</marketPct>
+          <marketableLimitPct>13.38</marketableLimitPct>
+          <nonMarketableLimitPct>13.35</nonMarketableLimitPct>
+          <otherPct>16.89</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>774302.12</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>47.6874</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>630972.80</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>47.9302</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>806125.79</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>47.5559</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1008569.72</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>48.0547</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Wolverine Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Wolverine Execution Services, LLC: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>0.05</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.01</marketableLimitPct>
+          <nonMarketableLimitPct>0.04</nonMarketableLimitPct>
+          <otherPct>0.08</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-1158.25</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-14.4312</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Morgan Stanley &amp; Co., LLC:. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Morgan Stanley &amp; Co., LLC: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>06</mon>
+    <rSP500>
+      <ndoPct>99.55</ndoPct>
+      <ndoMarketPct>51.74</ndoMarketPct>
+      <ndoMarketableLimitPct>5.80</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>32.48</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.98</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>33.86</orderPct>
+          <marketPct>39.21</marketPct>
+          <marketableLimitPct>39.27</marketableLimitPct>
+          <nonMarketableLimitPct>22.30</nonMarketableLimitPct>
+          <otherPct>40.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>309561.28</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>65787.27</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>18.4702</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>111370.38</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.3818</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>54175.11</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.4762</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>23.50</orderPct>
+          <marketPct>31.07</marketPct>
+          <marketableLimitPct>27.70</marketableLimitPct>
+          <nonMarketableLimitPct>10.90</nonMarketableLimitPct>
+          <otherPct>22.88</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>249894.63</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>47389.63</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>17.4289</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>37833.44</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.0076</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>36084.13</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.3278</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Virtu Americas, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Virtu Americas, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>15.30</orderPct>
+          <marketPct>10.96</marketPct>
+          <marketableLimitPct>12.21</marketableLimitPct>
+          <nonMarketableLimitPct>23.55</nonMarketableLimitPct>
+          <otherPct>12.76</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>84036.49</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.4538</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>17394.28</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.3762</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>133709.77</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.0704</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>21808.99</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>22.1583</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to G1X Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and G1X Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>10.67</orderPct>
+          <marketPct>9.17</marketPct>
+          <marketableLimitPct>10.24</marketableLimitPct>
+          <nonMarketableLimitPct>12.07</nonMarketableLimitPct>
+          <otherPct>14.20</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>55824.52</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>28958.21</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.1678</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>43274.19</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.2963</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>17107.65</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>22.7477</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to UBS Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and UBS Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>9.89</orderPct>
+          <marketPct>6.82</marketPct>
+          <marketableLimitPct>7.52</marketableLimitPct>
+          <nonMarketableLimitPct>16.03</nonMarketableLimitPct>
+          <otherPct>7.22</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>55445.68</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.4198</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>11124.82</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>17.4215</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>53447.08</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.4912</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11027.42</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.5184</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Two Sigma Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Two Sigma Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>3.12</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.14</marketableLimitPct>
+          <nonMarketableLimitPct>9.18</nonMarketableLimitPct>
+          <otherPct>1.32</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>27.28</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>4.6376</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>27857.63</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.4035</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>19022.48</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.5043</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Cboe EDGX Exchange, Inc. as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Cboe EDGX Exchange, Inc. as outlined in the above disclosures.
+
+E*TRADE and Cboe EDGX Exchange, Inc. do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+ 
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+1. Current rate schedules can be accessed through Cboe EDGX Exchange, Inc.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: https://markets.cboe.com/us/equities/membership/fee_schedule/edgx/
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Cboe EDGX Exchange Inc. and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>2.00</orderPct>
+          <marketPct>2.78</marketPct>
+          <marketableLimitPct>2.86</marketableLimitPct>
+          <nonMarketableLimitPct>1.04</nonMarketableLimitPct>
+          <otherPct>0.59</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>26686.37</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.0023</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3728.02</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0821</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4496.05</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.8326</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2106.66</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>20.6415</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Jane Street Capital. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Jane Street Capital do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>1.65</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.06</marketableLimitPct>
+          <nonMarketableLimitPct>4.92</nonMarketableLimitPct>
+          <otherPct>0.45</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-638.81</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.9167</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>23009.56</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.2453</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-192.82</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-23.8978</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Nasdaq Execution Services, LLC as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Nasdaq Execution Services, LLC as outlined in the above disclosures.
+
+E*TRADE and Nasdaq Execution Services, LLC do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+ 
+1. Current rate schedules can be accessed through The Nasdaq Stock Market LLC.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: http://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Nasdaq Execution Services, LLC and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.11</ndoPct>
+      <ndoMarketPct>47.86</ndoMarketPct>
+      <ndoMarketableLimitPct>9.55</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>33.33</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.27</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>33.60</orderPct>
+          <marketPct>38.78</marketPct>
+          <marketableLimitPct>39.54</marketableLimitPct>
+          <nonMarketableLimitPct>22.89</nonMarketableLimitPct>
+          <otherPct>39.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2354886.98</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.3103</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1253313.41</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.8363</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>779053.66</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.7830</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>389459.32</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.5622</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>23.17</orderPct>
+          <marketPct>30.84</marketPct>
+          <marketableLimitPct>28.47</marketableLimitPct>
+          <nonMarketableLimitPct>10.97</nonMarketableLimitPct>
+          <otherPct>22.01</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2033986.99</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.3276</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>872496.83</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.1340</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>277578.91</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.8812</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>127491.53</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>3.1258</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Virtu Americas, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Virtu Americas, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>15.43</orderPct>
+          <marketPct>12.06</marketPct>
+          <marketableLimitPct>12.26</marketableLimitPct>
+          <nonMarketableLimitPct>21.40</nonMarketableLimitPct>
+          <otherPct>14.59</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>745939.26</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.9183</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>327250.31</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>16.0022</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>891768.02</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.6753</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>191141.36</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.3565</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to G1X Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and G1X Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>10.63</orderPct>
+          <marketPct>8.93</marketPct>
+          <marketableLimitPct>9.57</marketableLimitPct>
+          <nonMarketableLimitPct>12.27</nonMarketableLimitPct>
+          <otherPct>14.56</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>421019.14</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.2479</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>343104.93</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>17.3749</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>330167.93</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.8213</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>119994.09</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.0096</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to UBS Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and UBS Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>9.78</orderPct>
+          <marketPct>6.64</marketPct>
+          <marketableLimitPct>7.23</marketableLimitPct>
+          <nonMarketableLimitPct>15.77</nonMarketableLimitPct>
+          <otherPct>7.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>399141.07</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.7744</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>208364.57</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.7683</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>408254.95</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.0403</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>74563.92</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>19.2043</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Two Sigma Securities, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Two Sigma Securities, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>3.66</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.10</marketableLimitPct>
+          <nonMarketableLimitPct>10.52</nonMarketableLimitPct>
+          <otherPct>1.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>216.32</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>4.6247</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>200567.98</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.3413</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>147177.91</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>28.3235</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Cboe EDGX Exchange, Inc. as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Cboe EDGX Exchange, Inc. as outlined in the above disclosures.
+
+E*TRADE and Cboe EDGX Exchange, Inc. do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+ 
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+1. Current rate schedules can be accessed through Cboe EDGX Exchange, Inc.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: https://markets.cboe.com/us/equities/membership/fee_schedule/edgx/
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Cboe EDGX Exchange Inc. and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>1.93</orderPct>
+          <marketPct>2.75</marketPct>
+          <marketableLimitPct>2.79</marketableLimitPct>
+          <nonMarketableLimitPct>0.95</nonMarketableLimitPct>
+          <otherPct>0.41</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>175165.28</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>19.2042</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>88873.09</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>16.4647</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>27265.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.8464</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>7151.01</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.1486</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain equities and ETF orders as specified in the Public Order Routing Report to Jane Street Capital. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Jane Street Capital do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per share basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>1.80</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.05</marketableLimitPct>
+          <nonMarketableLimitPct>5.24</nonMarketableLimitPct>
+          <otherPct>0.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-17655.84</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.6859</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>152156.23</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.7197</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-1615.91</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-24.7910</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain stock orders to Nasdaq Execution Services, LLC as specified in the Public Order Routing Report.  E*TRADE receives renumeration from Nasdaq Execution Services, LLC as outlined in the above disclosures.
+
+E*TRADE and Nasdaq Execution Services, LLC do not have any arrangements:
+
+A.	that require E*TRADE to meet certain volume thresholds.  E*TRADE receives payments related to liquidity rebates from the Exchange Execution Services Providers.  Schedules delineating orders eligible for such rebates and the applicable rates are published publicly by the Exchange Execution Services Providers.   Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+B.	that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+C.	for volume-based tiered payment schedules.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+D.	for minimum amount of order flow.  Renumeration is paid on a per share/order basis as disclosed in the Order Routing Public Report.
+
+ 
+1. Current rate schedules can be accessed through The Nasdaq Stock Market LLC.  Please note that the Exchange Execution Services Providers reserve the right to change their rates without notice and may also change their URL links. The current fee schedule can be found at: http://nasdaqtrader.com/Trader.aspx?id=PriceListTrading2
+
+E*TRADE is an affiliated company of Morgan Stanley &amp; Co. LLC, which is a Market Maker on Nasdaq Execution Services, LLC and may realize profits from orders routed to such exchange. Accordingly, E*TRADE may share directly or indirectly in any such profits generated by Morgan Stanley &amp; Co. LLC.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.94</ndoPct>
+      <ndoMarketPct>16.92</ndoMarketPct>
+      <ndoMarketableLimitPct>7.89</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>40.87</ndoNonmarketableLimitPct>
+      <ndoOtherPct>34.32</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>36.38</orderPct>
+          <marketPct>38.12</marketPct>
+          <marketableLimitPct>38.06</marketableLimitPct>
+          <nonMarketableLimitPct>38.18</nonMarketableLimitPct>
+          <otherPct>33.00</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2586871.59</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>45.3185</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2513719.62</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>46.8834</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2322228.15</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.0775</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1398770.93</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>38.5175</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Citadel Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Citadel Execution Services, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>27.08</orderPct>
+          <marketPct>26.09</marketPct>
+          <marketableLimitPct>26.06</marketableLimitPct>
+          <nonMarketableLimitPct>25.99</nonMarketableLimitPct>
+          <otherPct>29.09</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>820834.62</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>44.0876</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1143227.11</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>45.5979</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1912518.92</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.4731</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2570768.82</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>42.1861</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Global Execution Brokers LP. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Global Execution Brokers LP: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>DASH/IMC</name>
+          <orderPct>18.61</orderPct>
+          <marketPct>19.04</marketPct>
+          <marketableLimitPct>19.15</marketableLimitPct>
+          <nonMarketableLimitPct>19.05</nonMarketableLimitPct>
+          <otherPct>17.74</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1413486.07</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>46.6476</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1086402.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>47.0917</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1127940.51</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.5524</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1149910.34</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>39.0418</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Dash Financial Technologies, LLC (“Dash”).  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures. In connection with Dash’s handling of E*TRADE retail equity option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC, designed to facilitate liquidity provision and price improvement opportunities.  Pursuant to these arrangements, Dash routes E*TRADE retail equity option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs which are described in the fee schedules of the options exchanges.   It is noted that these liquidity providers provide Dash with remuneration in connection with E*TRADE retail equity options orders, including reciprocal order flow consideration or payment per contract in return for E*TRADE retail equity options orders that Dash routes or directs.
+
+E*TRADE and Dash Financial Technologies, LLC do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>17.88</orderPct>
+          <marketPct>16.75</marketPct>
+          <marketableLimitPct>16.71</marketableLimitPct>
+          <nonMarketableLimitPct>16.73</nonMarketableLimitPct>
+          <otherPct>20.08</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1197509.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>47.8330</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1011527.40</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>47.9754</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1164857.14</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>47.6723</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1340032.82</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>48.0422</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Wolverine Execution Services, LLC. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Wolverine Execution Services, LLC: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>0.05</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.02</marketableLimitPct>
+          <nonMarketableLimitPct>0.05</nonMarketableLimitPct>
+          <otherPct>0.09</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-852.14</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-7.3977</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>E*TRADE Securities LLC (“E*TRADE”) routes certain option orders as specified in the Public Order Routing Report to Morgan Stanley &amp; Co., LLC:. These arrangements are designed to facilitate liquidity provision and price improvement opportunities for E*TRADE’s customers.  Through these arrangements, E*TRADE receives renumeration as outlined in the above disclosures.
+
+E*TRADE and Morgan Stanley &amp; Co., LLC: do not have any arrangements:
+
+A. that require E*TRADE to meet certain volume thresholds or that provide incentives to E*TRADE for meeting or exceeding certain volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+B. that require E*TRADE to meet certain minimum volume thresholds or that provide disincentives to E*TRADE for failing to meet certain minimum volume thresholds. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+C. for volume-based tiered payment schedules. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.
+
+D. for minimum amount of orders. Renumeration is paid on a per contract basis as disclosed in the Order Routing Public Report.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>

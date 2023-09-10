@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>TD Ameritrade, Inc.</bd>
+  <year>2023</year>
+  <qtr>1</qtr>
+  <timestamp>2023-05-22T15:03:06Z</timestamp>
+  <rMonthly>
+    <year>2023</year>
+    <mon>01</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>18.37</ndoMarketPct>
+      <ndoMarketableLimitPct>7.38</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>29.09</ndoNonmarketableLimitPct>
+      <ndoOtherPct>45.16</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>37.28</orderPct>
+          <marketPct>34.98</marketPct>
+          <marketableLimitPct>34.47</marketableLimitPct>
+          <nonMarketableLimitPct>29.88</nonMarketableLimitPct>
+          <otherPct>43.45</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>98716.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.7800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>43466.23</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.7800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>114718.21</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.8800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>16989.56</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.4100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.19</orderPct>
+          <marketPct>41.31</marketPct>
+          <marketableLimitPct>41.80</marketableLimitPct>
+          <nonMarketableLimitPct>31.77</nonMarketableLimitPct>
+          <otherPct>33.81</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>119342.17</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9300</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>51370.90</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9300</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>79058.14</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.5500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>20835.44</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.8100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>27.53</orderPct>
+          <marketPct>23.71</marketPct>
+          <marketableLimitPct>23.73</marketableLimitPct>
+          <nonMarketableLimitPct>38.35</nonMarketableLimitPct>
+          <otherPct>22.74</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>70332.11</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.8400</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>29487.27</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.8400</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>170916.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.0800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>15768.21</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>16.43</ndoMarketPct>
+      <ndoMarketableLimitPct>10.36</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>30.56</ndoNonmarketableLimitPct>
+      <ndoOtherPct>42.65</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>40.82</orderPct>
+          <marketPct>35.38</marketPct>
+          <marketableLimitPct>35.83</marketableLimitPct>
+          <nonMarketableLimitPct>32.91</nonMarketableLimitPct>
+          <otherPct>49.79</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>290261.40</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.7800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>268873.09</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.7800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>279261.96</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.3500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>85545.99</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.4200</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.75</orderPct>
+          <marketPct>41.06</marketPct>
+          <marketableLimitPct>41.33</marketableLimitPct>
+          <nonMarketableLimitPct>31.34</nonMarketableLimitPct>
+          <otherPct>35.50</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>333311.68</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9300</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>319943.08</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9300</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>202723.12</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.4700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>116958.45</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.1500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>23.44</orderPct>
+          <marketPct>23.55</marketPct>
+          <marketableLimitPct>22.83</marketableLimitPct>
+          <nonMarketableLimitPct>35.75</nonMarketableLimitPct>
+          <otherPct>14.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>201546.62</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.8400</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>179875.30</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.8400</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>411110.85</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.1300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>48108.34</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.9700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.37</ndoPct>
+      <ndoMarketPct>3.92</ndoMarketPct>
+      <ndoMarketableLimitPct>7.17</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>24.43</ndoNonmarketableLimitPct>
+      <ndoOtherPct>64.48</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>36.77</orderPct>
+          <marketPct>42.51</marketPct>
+          <marketableLimitPct>41.33</marketableLimitPct>
+          <nonMarketableLimitPct>43.34</nonMarketableLimitPct>
+          <otherPct>33.42</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>939935.86</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>42.0500</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3790948.62</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>59.2100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2800378.89</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>48.7700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1446095.62</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash/IMC Financial Markets</name>
+          <orderPct>23.51</orderPct>
+          <marketPct>17.83</marketPct>
+          <marketableLimitPct>18.10</marketableLimitPct>
+          <nonMarketableLimitPct>21.99</nonMarketableLimitPct>
+          <otherPct>25.04</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>412011.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>41.1700</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1549576.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>56.8500</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1212084.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>48.7700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1041902.26</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.2100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker. In connection with Dash Financial’s handling of TD Ameritrade’s listed option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC Chicago, designed to facilitate liquidity and price improvement opportunities. Pursuant to these arrangements, Dash routes listed option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs. It is noted that these liquidity providers provide Dash with remuneration in connection with TD Ameritrade’s listed option orders, including reciprocal order flow consideration or payment per contract in return for TD Ameritrade’s listed option orders that Dash routes or directs.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services</name>
+          <orderPct>19.31</orderPct>
+          <marketPct>1.38</marketPct>
+          <marketableLimitPct>1.40</marketableLimitPct>
+          <nonMarketableLimitPct>1.19</nonMarketableLimitPct>
+          <otherPct>29.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>34255.01</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>51.0301</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>172526.92</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>69.8399</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>78157.17</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>48.7699</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1558795.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>33.4700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>17.68</orderPct>
+          <marketPct>31.69</marketPct>
+          <marketableLimitPct>33.56</marketableLimitPct>
+          <nonMarketableLimitPct>32.25</nonMarketableLimitPct>
+          <otherPct>9.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>724331.54</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>45.0600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3236421.43</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>63.8100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1946621.01</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>48.7700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>192948.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.9800</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2023</year>
+    <mon>02</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>19.35</ndoMarketPct>
+      <ndoMarketableLimitPct>7.04</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>29.65</ndoNonmarketableLimitPct>
+      <ndoOtherPct>43.96</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>36.21</orderPct>
+          <marketPct>39.68</marketPct>
+          <marketableLimitPct>38.43</marketableLimitPct>
+          <nonMarketableLimitPct>29.00</nonMarketableLimitPct>
+          <otherPct>39.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>114888.41</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>47079.85</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.4600</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>120434.35</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.0900</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>17964.99</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.3100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>36.05</orderPct>
+          <marketPct>36.29</marketPct>
+          <marketableLimitPct>37.53</marketableLimitPct>
+          <nonMarketableLimitPct>32.28</nonMarketableLimitPct>
+          <otherPct>38.25</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>106913.94</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4900</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>46615.04</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.4900</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>84256.26</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.6900</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>21538.99</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.6900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>27.74</orderPct>
+          <marketPct>24.03</marketPct>
+          <marketableLimitPct>24.03</marketableLimitPct>
+          <nonMarketableLimitPct>38.72</nonMarketableLimitPct>
+          <otherPct>22.57</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>74024.21</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.5500</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>29525.69</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.5500</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>198264.07</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.4300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>16912.02</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>16.45</ndoMarketPct>
+      <ndoMarketableLimitPct>9.95</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>30.48</ndoNonmarketableLimitPct>
+      <ndoOtherPct>43.12</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>38.81</orderPct>
+          <marketPct>39.90</marketPct>
+          <marketableLimitPct>39.92</marketableLimitPct>
+          <nonMarketableLimitPct>31.94</nonMarketableLimitPct>
+          <otherPct>42.98</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>338633.42</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>287142.93</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.4600</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>293391.37</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.3100</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>87584.67</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.4300</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>37.66</orderPct>
+          <marketPct>36.22</marketPct>
+          <marketableLimitPct>36.95</marketableLimitPct>
+          <nonMarketableLimitPct>32.24</nonMarketableLimitPct>
+          <otherPct>42.20</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>312358.54</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4900</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>278354.38</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.4900</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>231115.78</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.5600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>123380.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.2000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>23.51</orderPct>
+          <marketPct>23.83</marketPct>
+          <marketableLimitPct>23.09</marketableLimitPct>
+          <nonMarketableLimitPct>35.79</nonMarketableLimitPct>
+          <otherPct>14.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>210547.96</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.5500</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>175899.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.5500</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>474085.90</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.2400</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>50802.14</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.9500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.33</ndoPct>
+      <ndoMarketPct>4.10</ndoMarketPct>
+      <ndoMarketableLimitPct>7.37</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>25.29</ndoNonmarketableLimitPct>
+      <ndoOtherPct>63.25</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>33.34</orderPct>
+          <marketPct>42.67</marketPct>
+          <marketableLimitPct>41.61</marketableLimitPct>
+          <nonMarketableLimitPct>38.70</nonMarketableLimitPct>
+          <otherPct>29.63</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>989207.02</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>44.3000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3796459.28</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>61.5800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2596187.67</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.2700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1214320.12</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.2100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash/IMC Financial Markets</name>
+          <orderPct>27.12</orderPct>
+          <marketPct>16.92</marketPct>
+          <marketableLimitPct>17.11</marketableLimitPct>
+          <nonMarketableLimitPct>26.91</nonMarketableLimitPct>
+          <otherPct>29.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>354524.95</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>41.4700</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1243218.62</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>56.9800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1492778.59</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.2700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1178924.11</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.2700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker. In connection with Dash Financial’s handling of TD Ameritrade’s listed option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC Chicago, designed to facilitate liquidity and price improvement opportunities. Pursuant to these arrangements, Dash routes listed option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs. It is noted that these liquidity providers provide Dash with remuneration in connection with TD Ameritrade’s listed option orders, including reciprocal order flow consideration or payment per contract in return for TD Ameritrade’s listed option orders that Dash routes or directs.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services</name>
+          <orderPct>19.63</orderPct>
+          <marketPct>1.60</marketPct>
+          <marketableLimitPct>1.69</marketableLimitPct>
+          <nonMarketableLimitPct>1.00</nonMarketableLimitPct>
+          <otherPct>30.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>48388.77</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>57.5303</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>234453.96</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>75.5399</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>67791.09</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.2700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1651869.19</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.0400</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>17.88</orderPct>
+          <marketPct>32.16</marketPct>
+          <marketableLimitPct>34.00</marketableLimitPct>
+          <nonMarketableLimitPct>32.13</nonMarketableLimitPct>
+          <otherPct>9.38</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>758042.88</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>47.3500</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3139268.09</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>65.4800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1959423.36</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.2700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>204387.24</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.0200</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2023</year>
+    <mon>03</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>20.01</ndoMarketPct>
+      <ndoMarketableLimitPct>7.31</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>29.10</ndoNonmarketableLimitPct>
+      <ndoOtherPct>43.59</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>36.87</orderPct>
+          <marketPct>44.06</marketPct>
+          <marketableLimitPct>42.52</marketableLimitPct>
+          <nonMarketableLimitPct>28.17</nonMarketableLimitPct>
+          <otherPct>38.43</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>151666.52</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>63026.51</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>151230.46</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.9500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>22368.57</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.5100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>36.85</orderPct>
+          <marketPct>36.73</marketPct>
+          <marketableLimitPct>37.67</marketableLimitPct>
+          <nonMarketableLimitPct>32.30</nonMarketableLimitPct>
+          <otherPct>39.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>127894.51</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>55385.97</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9200</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>102109.26</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.3500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>21952.86</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.7900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>26.27</orderPct>
+          <marketPct>19.21</marketPct>
+          <marketableLimitPct>19.81</marketableLimitPct>
+          <nonMarketableLimitPct>39.53</nonMarketableLimitPct>
+          <otherPct>21.75</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>69440.15</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>30759.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9600</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>242098.43</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.0600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>19351.42</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>16.58</ndoMarketPct>
+      <ndoMarketableLimitPct>10.19</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>30.31</ndoNonmarketableLimitPct>
+      <ndoOtherPct>42.91</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>39.03</orderPct>
+          <marketPct>44.02</marketPct>
+          <marketableLimitPct>43.98</marketableLimitPct>
+          <nonMarketableLimitPct>31.17</nonMarketableLimitPct>
+          <otherPct>41.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>405116.06</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>401172.17</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>356908.65</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.9400</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>106669.05</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.4000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>38.60</orderPct>
+          <marketPct>36.81</marketPct>
+          <marketableLimitPct>37.38</marketableLimitPct>
+          <nonMarketableLimitPct>32.58</nonMarketableLimitPct>
+          <otherPct>43.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>344535.41</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>345752.73</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9200</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>243539.20</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.1200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>136581.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.0200</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>22.37</orderPct>
+          <marketPct>19.16</marketPct>
+          <marketableLimitPct>18.64</marketableLimitPct>
+          <nonMarketableLimitPct>36.24</nonMarketableLimitPct>
+          <otherPct>14.70</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>188420.81</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>179522.03</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9600</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>572362.89</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.8300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>56003.75</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.9500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing listed equity order flow to market makers. For marketable orders the payment rate is $0.001 per share or less, for non-marketable orders the rate is $0.0037 per share or less, and for extended hours orders the rate is $0.0006 per share or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.35</ndoPct>
+      <ndoMarketPct>3.78</ndoMarketPct>
+      <ndoMarketableLimitPct>6.86</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>25.33</ndoNonmarketableLimitPct>
+      <ndoOtherPct>64.04</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>29.46</orderPct>
+          <marketPct>42.04</marketPct>
+          <marketableLimitPct>40.58</marketableLimitPct>
+          <nonMarketableLimitPct>35.66</nonMarketableLimitPct>
+          <otherPct>25.07</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>886453.26</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>38.6900</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3876235.08</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>53.7000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3053045.09</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.4600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1240161.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.3900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash/IMC Financial Markets</name>
+          <orderPct>26.41</orderPct>
+          <marketPct>15.50</marketPct>
+          <marketableLimitPct>15.55</marketableLimitPct>
+          <nonMarketableLimitPct>23.78</nonMarketableLimitPct>
+          <otherPct>29.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>293113.20</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.8100</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1128106.65</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>48.6000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1605610.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.4600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1338684.07</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>30.8600</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker. In connection with Dash Financial’s handling of TD Ameritrade’s listed option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC Chicago, designed to facilitate liquidity and price improvement opportunities. Pursuant to these arrangements, Dash routes listed option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs. It is noted that these liquidity providers provide Dash with remuneration in connection with TD Ameritrade’s listed option orders, including reciprocal order flow consideration or payment per contract in return for TD Ameritrade’s listed option orders that Dash routes or directs.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services</name>
+          <orderPct>24.06</orderPct>
+          <marketPct>3.36</marketPct>
+          <marketableLimitPct>4.19</marketableLimitPct>
+          <nonMarketableLimitPct>5.56</nonMarketableLimitPct>
+          <otherPct>34.72</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>90734.90</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>53.8301</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>502924.70</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>77.2000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>436755.19</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.4600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1976422.08</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.1400</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>18.24</orderPct>
+          <marketPct>32.32</marketPct>
+          <marketableLimitPct>33.94</marketableLimitPct>
+          <nonMarketableLimitPct>33.79</nonMarketableLimitPct>
+          <otherPct>9.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>697500.81</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>41.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3259008.37</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>59.8700</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2555570.97</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.4600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>214044.24</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.9800</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>TD Ameritrade, Inc. receives payment for routing multi-listed option order flow to market makers. For complex orders on classes in the penny interval program the payment rate is $0.43 per contract or less, and for all other complex orders the payment rate is $0.93 per contract or less. For marketable orders on classes in the penny interval program the payment rate is $0.79 per contract or less, and for all other marketable orders the payment rate is $1.49 per contract or less. For non-marketable orders on classes in the penny interval program the payment rate is $0.51 per contract or less, and for all other non-marketable orders the payment rate is $0.98 per contract or less. All market makers pay the same rate for each respective order flow type. TD Ameritrade does not negotiate payment as a condition for sending more order flow to a market maker.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>

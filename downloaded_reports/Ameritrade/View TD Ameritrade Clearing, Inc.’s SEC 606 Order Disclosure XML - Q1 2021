@@ -1,0 +1,930 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.2</version>
+  <bd>TD Ameritrade Clearing, Inc.</bd>
+  <year>2021</year>
+  <qtr>1</qtr>
+  <timestamp>2021-04-13T18:41:06Z</timestamp>
+  <rMonthly>
+    <year>2021</year>
+    <mon>01</mon>
+    <rSP500>
+      <ndoPct>99.96</ndoPct>
+      <ndoMarketPct>22.09</ndoMarketPct>
+      <ndoMarketableLimitPct>8.42</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>35.61</ndoNonmarketableLimitPct>
+      <ndoOtherPct>33.87</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>41.43</orderPct>
+          <marketPct>47.86</marketPct>
+          <marketableLimitPct>46.29</marketableLimitPct>
+          <nonMarketableLimitPct>25.36</nonMarketableLimitPct>
+          <otherPct>52.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>773557</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>325186</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>613192</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.8500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>157277</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.4700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>20.65</orderPct>
+          <marketPct>24.57</marketPct>
+          <marketableLimitPct>22.10</marketableLimitPct>
+          <nonMarketableLimitPct>4.67</nonMarketableLimitPct>
+          <otherPct>34.54</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>384486</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>154965</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>174429</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.9600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>92009</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.3100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>15.11</orderPct>
+          <marketPct>1.31</marketPct>
+          <marketableLimitPct>5.12</marketableLimitPct>
+          <nonMarketableLimitPct>39.44</nonMarketableLimitPct>
+          <otherPct>1.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>20619</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>15716</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>550729</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.4300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1276</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.4900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>12.74</orderPct>
+          <marketPct>24.81</marketPct>
+          <marketableLimitPct>23.68</marketableLimitPct>
+          <nonMarketableLimitPct>8.64</nonMarketableLimitPct>
+          <otherPct>6.45</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>408386</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>156937</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>326188</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.6000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>24925</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.4600</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>7.80</orderPct>
+          <marketPct>0.96</marketPct>
+          <marketableLimitPct>2.32</marketableLimitPct>
+          <nonMarketableLimitPct>20.13</nonMarketableLimitPct>
+          <otherPct>0.66</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>14885</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>9578</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>439692</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.5700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>877</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.3600</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.96</ndoPct>
+      <ndoMarketPct>22.55</ndoMarketPct>
+      <ndoMarketableLimitPct>11.65</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>33.57</ndoNonmarketableLimitPct>
+      <ndoOtherPct>32.24</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>42.49</orderPct>
+          <marketPct>48.45</marketPct>
+          <marketableLimitPct>46.70</marketableLimitPct>
+          <nonMarketableLimitPct>25.31</nonMarketableLimitPct>
+          <otherPct>54.68</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>5699526</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.4200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3892066</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3993225</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.8900</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1933992</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>6.9500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>20.63</orderPct>
+          <marketPct>24.00</marketPct>
+          <marketableLimitPct>21.77</marketableLimitPct>
+          <nonMarketableLimitPct>5.43</nonMarketableLimitPct>
+          <otherPct>33.67</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2752322</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.4200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1858896</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1080961</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.8700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1124200</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>6.8200</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>14.22</orderPct>
+          <marketPct>1.53</marketPct>
+          <marketableLimitPct>4.81</marketableLimitPct>
+          <nonMarketableLimitPct>38.92</nonMarketableLimitPct>
+          <otherPct>0.78</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>179437</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.4200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>172392</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3647288</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.5800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>13692</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.3600</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>11.87</orderPct>
+          <marketPct>24.37</marketPct>
+          <marketableLimitPct>22.92</marketableLimitPct>
+          <nonMarketableLimitPct>6.28</nonMarketableLimitPct>
+          <otherPct>4.96</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2927453</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.4200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1756140</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1588194</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>22.0400</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>200085</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.4200</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>7.81</orderPct>
+          <marketPct>1.15</marketPct>
+          <marketableLimitPct>2.36</marketableLimitPct>
+          <nonMarketableLimitPct>21.23</nonMarketableLimitPct>
+          <otherPct>0.46</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>126157</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.4200</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>111860</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2807816</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.3000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>8584</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.3800</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.83</ndoPct>
+      <ndoMarketPct>6.63</ndoMarketPct>
+      <ndoMarketableLimitPct>13.43</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>61.51</ndoNonmarketableLimitPct>
+      <ndoOtherPct>18.43</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>45.14</orderPct>
+          <marketPct>44.73</marketPct>
+          <marketableLimitPct>44.65</marketableLimitPct>
+          <nonMarketableLimitPct>45.36</nonMarketableLimitPct>
+          <otherPct>44.92</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2350248</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>68.7900</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6711987</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>72.3400</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6064037</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.3000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1319671</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>49.2400</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>34.67</orderPct>
+          <marketPct>44.43</marketPct>
+          <marketableLimitPct>44.02</marketableLimitPct>
+          <nonMarketableLimitPct>34.60</nonMarketableLimitPct>
+          <otherPct>24.57</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2138570</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>68.9000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>5920032</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>72.1400</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4215023</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.3000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>604553</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>50.7700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services</name>
+          <orderPct>8.01</orderPct>
+          <marketPct>4.11</marketPct>
+          <marketableLimitPct>4.40</marketableLimitPct>
+          <nonMarketableLimitPct>9.94</nonMarketableLimitPct>
+          <otherPct>5.59</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>213617</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>68.8300</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>631442</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>72.4500</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1269818</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.3000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>168048</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>49.9000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash/IMC</name>
+          <orderPct>7.78</orderPct>
+          <marketPct>4.06</marketPct>
+          <marketableLimitPct>4.25</marketableLimitPct>
+          <nonMarketableLimitPct>7.16</nonMarketableLimitPct>
+          <otherPct>13.73</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>208042</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>68.4000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>626569</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>72.4600</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>910070</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.2100</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>356664</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>47.0400</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+                    As detailed above, TD Ameritrade Clearing, Inc. receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade
+          the same rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle. In connection with Dash Financial’s handling of TD Ameritrade’s listed option orders, Dash has
+          arrangements with multiple unaffiliated liquidity providers, including IMC Chicago, designed to facilitate liquidity and price improvement opportunities. Pursuant to these arrangements, Dash routes listed option orders to exchanges and preferences the liquidity providers consistent with
+          exchange sponsored programs. It is noted that these liquidity providers provide Dash with remuneration in connection with TD Ameritrade’s listed option orders, including reciprocal order flow consideration or payment per contract in return for TD Ameritrade’s listed option orders that
+          Dash routes or directs.
+		      </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>02</mon>
+    <rSP500>
+      <ndoPct>99.96</ndoPct>
+      <ndoMarketPct>19.75</ndoMarketPct>
+      <ndoMarketableLimitPct>8.21</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>36.11</ndoNonmarketableLimitPct>
+      <ndoOtherPct>35.93</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>43.75</orderPct>
+          <marketPct>46.85</marketPct>
+          <marketableLimitPct>45.65</marketableLimitPct>
+          <nonMarketableLimitPct>31.65</nonMarketableLimitPct>
+          <otherPct>53.77</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>577242</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>265481</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>564324</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.5300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>123781</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.1300</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>22.36</orderPct>
+          <marketPct>33.22</marketPct>
+          <marketableLimitPct>30.10</marketableLimitPct>
+          <nonMarketableLimitPct>3.79</nonMarketableLimitPct>
+          <otherPct>33.28</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>401866</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>178248</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>96489</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.9000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>74590</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.9000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>16.86</orderPct>
+          <marketPct>3.91</marketPct>
+          <marketableLimitPct>7.79</marketableLimitPct>
+          <nonMarketableLimitPct>41.12</nonMarketableLimitPct>
+          <otherPct>1.67</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>50909</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>27374</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>507169</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.8700</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>4068</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.5800</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>7.74</orderPct>
+          <marketPct>14.45</marketPct>
+          <marketableLimitPct>14.02</marketableLimitPct>
+          <nonMarketableLimitPct>5.50</nonMarketableLimitPct>
+          <otherPct>4.87</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>181688</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>78572</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>221281</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.7300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>17371</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.5700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>6.76</orderPct>
+          <marketPct>1.07</marketPct>
+          <marketableLimitPct>1.97</marketableLimitPct>
+          <nonMarketableLimitPct>16.42</nonMarketableLimitPct>
+          <otherPct>1.28</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>12642</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>7892</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>362072</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.0100</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3709</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.5300</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.94</ndoPct>
+      <ndoMarketPct>19.57</ndoMarketPct>
+      <ndoMarketableLimitPct>11.88</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>34.50</ndoNonmarketableLimitPct>
+      <ndoOtherPct>34.05</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>43.90</orderPct>
+          <marketPct>46.83</marketPct>
+          <marketableLimitPct>45.09</marketableLimitPct>
+          <nonMarketableLimitPct>30.59</nonMarketableLimitPct>
+          <otherPct>55.29</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>5047173</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.8800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3839550</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.8100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4833823</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.3800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1916813</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.9300</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>22.73</orderPct>
+          <marketPct>32.68</marketPct>
+          <marketableLimitPct>29.64</marketableLimitPct>
+          <nonMarketableLimitPct>4.32</nonMarketableLimitPct>
+          <otherPct>33.25</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3476541</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.8800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2585225</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.8100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>847585</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.3800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1242062</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.7300</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>15.56</orderPct>
+          <marketPct>4.29</marketPct>
+          <marketableLimitPct>7.81</marketableLimitPct>
+          <nonMarketableLimitPct>38.93</nonMarketableLimitPct>
+          <otherPct>1.05</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>502429</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.8800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>429669</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.8100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4323371</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.3600</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>39660</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.0600</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>7.00</orderPct>
+          <marketPct>1.28</marketPct>
+          <marketableLimitPct>2.24</marketableLimitPct>
+          <nonMarketableLimitPct>17.93</nonMarketableLimitPct>
+          <otherPct>0.87</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>152080</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.8800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>145898</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.8100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3076601</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.3800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>34923</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.0800</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>6.98</orderPct>
+          <marketPct>14.42</marketPct>
+          <marketableLimitPct>13.67</marketableLimitPct>
+          <nonMarketableLimitPct>3.92</nonMarketableLimitPct>
+          <otherPct>3.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1534155</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.8800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1023128</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.8100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1407017</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.4300</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>163350</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.1000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.84</ndoPct>
+      <ndoMarketPct>5.66</ndoMarketPct>
+      <ndoMarketableLimitPct>12.82</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>62.08</ndoNonmarketableLimitPct>
+      <ndoOtherPct>19.44</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>45.07</orderPct>
+          <marketPct>44.68</marketPct>
+          <marketableLimitPct>44.72</marketableLimitPct>
+          <nonMarketableLimitPct>45.21</nonMarketableLimitPct>
+          <otherPct>44.97</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2350857</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>73.4800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>7847208</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>79.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6695437</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.7200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1501512</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>51.3500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>32.02</orderPct>
+          <marketPct>44.50</marketPct>
+          <marketableLimitPct>43.90</marketableLimitPct>
+          <nonMarketableLimitPct>31.56</nonMarketableLimitPct>
+          <otherPct>22.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2113154</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>73.1000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6838277</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>79.1500</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4299236</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.7200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>617017</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>52.7100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services</name>
+          <orderPct>11.69</orderPct>
+          <marketPct>4.03</marketPct>
+          <marketableLimitPct>4.47</marketableLimitPct>
+          <nonMarketableLimitPct>14.03</nonMarketableLimitPct>
+          <otherPct>11.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>210062</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>75.2700</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>769926</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>80.2100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1959423</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.7200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>397387</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>51.3500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash/IMC</name>
+          <orderPct>6.85</orderPct>
+          <marketPct>4.20</marketPct>
+          <marketableLimitPct>4.28</marketableLimitPct>
+          <nonMarketableLimitPct>6.31</nonMarketableLimitPct>
+          <otherPct>11.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>209685</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>71.8600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>690818</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>76.0800</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>890550</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.5800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>320179</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>49.0400</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+                    As detailed above, TD Ameritrade Clearing, Inc. receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade
+          the same rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle. In connection with Dash Financial’s handling of TD Ameritrade’s listed option orders, Dash has
+          arrangements with multiple unaffiliated liquidity providers, including IMC Chicago, designed to facilitate liquidity and price improvement opportunities. Pursuant to these arrangements, Dash routes listed option orders to exchanges and preferences the liquidity providers consistent with
+          exchange sponsored programs. It is noted that these liquidity providers provide Dash with remuneration in connection with TD Ameritrade’s listed option orders, including reciprocal order flow consideration or payment per contract in return for TD Ameritrade’s listed option orders that
+          Dash routes or directs.
+		      </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>03</mon>
+    <rSP500>
+      <ndoPct>99.98</ndoPct>
+      <ndoMarketPct>21.60</ndoMarketPct>
+      <ndoMarketableLimitPct>7.57</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>34.75</ndoNonmarketableLimitPct>
+      <ndoOtherPct>36.08</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>45.27</orderPct>
+          <marketPct>39.87</marketPct>
+          <marketableLimitPct>40.18</marketableLimitPct>
+          <nonMarketableLimitPct>40.52</nonMarketableLimitPct>
+          <otherPct>54.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>733601</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>260274</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>753540</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.2900</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>129858</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.2100</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>23.79</orderPct>
+          <marketPct>39.66</marketPct>
+          <marketableLimitPct>36.30</marketableLimitPct>
+          <nonMarketableLimitPct>2.44</nonMarketableLimitPct>
+          <otherPct>32.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>719006</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>243275</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>46904</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.4900</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>69004</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.7600</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>18.96</orderPct>
+          <marketPct>9.89</marketPct>
+          <marketableLimitPct>12.64</marketableLimitPct>
+          <nonMarketableLimitPct>39.68</nonMarketableLimitPct>
+          <otherPct>5.74</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>181850</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>64732</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>642213</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.2500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>22267</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.5000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>5.54</orderPct>
+          <marketPct>0.93</marketPct>
+          <marketableLimitPct>1.52</marketableLimitPct>
+          <nonMarketableLimitPct>12.33</nonMarketableLimitPct>
+          <otherPct>2.60</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>19783</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>9882</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>528780</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.7000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>12703</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.4900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>5.02</orderPct>
+          <marketPct>9.18</marketPct>
+          <marketableLimitPct>8.94</marketableLimitPct>
+          <nonMarketableLimitPct>3.61</nonMarketableLimitPct>
+          <otherPct>3.05</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>170586</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>58268</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>229055</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.8500</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>14348</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.6000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.94</ndoPct>
+      <ndoMarketPct>19.59</ndoMarketPct>
+      <ndoMarketableLimitPct>9.92</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>34.44</ndoNonmarketableLimitPct>
+      <ndoOtherPct>36.05</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>46.16</orderPct>
+          <marketPct>40.31</marketPct>
+          <marketableLimitPct>40.58</marketableLimitPct>
+          <nonMarketableLimitPct>39.99</nonMarketableLimitPct>
+          <otherPct>56.75</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4776893</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.9600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2705402</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.9100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4639894</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.3800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1247980</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.5900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>24.35</orderPct>
+          <marketPct>39.53</marketPct>
+          <marketableLimitPct>36.65</marketableLimitPct>
+          <nonMarketableLimitPct>2.45</nonMarketableLimitPct>
+          <otherPct>33.64</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4599940</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.9600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2479489</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.9100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>288212</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.4800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>762019</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.1500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>17.95</orderPct>
+          <marketPct>9.71</marketPct>
+          <marketableLimitPct>11.97</marketableLimitPct>
+          <nonMarketableLimitPct>39.48</nonMarketableLimitPct>
+          <otherPct>3.50</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1157348</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.9600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>620593</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.9100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3825405</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.3400</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>143518</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.1900</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>5.62</orderPct>
+          <marketPct>1.00</marketPct>
+          <marketableLimitPct>1.57</marketableLimitPct>
+          <nonMarketableLimitPct>13.52</nonMarketableLimitPct>
+          <otherPct>1.68</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>159203</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.9600</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>117712</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.9100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2882895</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.0400</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>83730</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.1700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed equity order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability), but all market makers pay TD Ameritrade the same rate applicable to any
+              given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.84</ndoPct>
+      <ndoMarketPct>5.91</ndoMarketPct>
+      <ndoMarketableLimitPct>12.40</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>62.24</ndoNonmarketableLimitPct>
+      <ndoOtherPct>19.45</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Securities, LLC</name>
+          <orderPct>44.93</orderPct>
+          <marketPct>44.79</marketPct>
+          <marketableLimitPct>44.82</marketableLimitPct>
+          <nonMarketableLimitPct>45.02</nonMarketableLimitPct>
+          <otherPct>44.77</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2498010</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>65.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>7706772</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>72.6000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>7102786</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.3200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1477026</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>48.3000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>32.03</orderPct>
+          <marketPct>44.57</marketPct>
+          <marketableLimitPct>43.92</marketableLimitPct>
+          <nonMarketableLimitPct>32.18</nonMarketableLimitPct>
+          <otherPct>20.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2283513</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>64.7700</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6822711</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>72.3400</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4688869</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.3200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>577558</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>49.2500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services</name>
+          <orderPct>9.53</orderPct>
+          <marketPct>3.46</marketPct>
+          <marketableLimitPct>3.55</marketableLimitPct>
+          <nonMarketableLimitPct>9.07</nonMarketableLimitPct>
+          <otherPct>16.63</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>164872</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>55.6400</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>513968</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>62.1100</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1388003</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.3200</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>570576</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>48.1500</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+              As detailed above, TD Ameritrade Clearing, Inc.  receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade the same
+              rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.
+          </materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash/IMC</name>
+          <orderPct>9.07</orderPct>
+          <marketPct>4.58</marketPct>
+          <marketableLimitPct>5.05</marketableLimitPct>
+          <nonMarketableLimitPct>10.81</nonMarketableLimitPct>
+          <otherPct>7.41</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>272408</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>70.4700</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>897554</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>76.1200</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1620555</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.1800</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>222642</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>47.1700</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>
+                    As detailed above, TD Ameritrade Clearing, Inc. receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., type of order, pricing of security, market conditions, marketability), but all market makers pay TD Ameritrade
+          the same rate applicable to any given order. Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle. In connection with Dash Financial’s handling of TD Ameritrade’s listed option orders, Dash has
+          arrangements with multiple unaffiliated liquidity providers, including IMC Chicago, designed to facilitate liquidity and price improvement opportunities. Pursuant to these arrangements, Dash routes listed option orders to exchanges and preferences the liquidity providers consistent with
+          exchange sponsored programs. It is noted that these liquidity providers provide Dash with remuneration in connection with TD Ameritrade’s listed option orders, including reciprocal order flow consideration or payment per contract in return for TD Ameritrade’s listed option orders that
+          Dash routes or directs.
+		      </materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>
